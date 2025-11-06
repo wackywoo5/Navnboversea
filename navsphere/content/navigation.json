@@ -14,6 +14,14 @@
           "enabled": true
         },
         {
+          "id": "site_1762423123670_d6m1qzsct",
+          "title": "早鸟广告",
+          "href": "https://nboversea.vercel.app/",
+          "description": "最专业的全渠道广告代投放",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nboversea.vercel.app",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -115,14 +123,6 @@
           "href": "https://news.ycombinator.com/",
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_1762423123670_d6m1qzsct",
-          "title": "早鸟广告",
-          "href": "https://nboversea.vercel.app/",
-          "description": "最专业的全渠道广告代投放",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nboversea.vercel.app",
           "enabled": true
         }
       ],
