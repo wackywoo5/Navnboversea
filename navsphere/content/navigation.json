@@ -116,6 +116,14 @@
           "description": "早鸟出海专注于app上架运营推广服务，具有多年Google Play/APP store 实力上包经验，客户主要出海巴西、印尼、菲律宾、美国、加拿大等国，目前团队成功上架的出海App数量累计已超6000款.",
           "icon": "/assets/favicon_1762423048878.jpg",
           "enabled": true
+        },
+        {
+          "id": "site_1762423123670_d6m1qzsct",
+          "title": "早鸟广告",
+          "href": "https://nboversea.vercel.app/",
+          "description": "最专业的全渠道广告代投放",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nboversea.vercel.app",
+          "enabled": true
         }
       ],
       "subCategories": [],
