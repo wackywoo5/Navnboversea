@@ -6,6 +6,14 @@
       "icon": "Star",
       "items": [
         {
+          "id": "site_1762423069216_08rhqlx8g",
+          "title": "早鸟上架",
+          "href": "https://nboversea.com/",
+          "description": "早鸟出海专注于app上架运营推广服务，具有多年Google Play/APP store 实力上包经验，客户主要出海巴西、印尼、菲律宾、美国、加拿大等国，目前团队成功上架的出海App数量累计已超6000款.",
+          "icon": "/assets/favicon_1762423048878.jpg",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -107,14 +115,6 @@
           "href": "https://news.ycombinator.com/",
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_1762423069216_08rhqlx8g",
-          "title": "早鸟上架",
-          "href": "https://nboversea.com/",
-          "description": "早鸟出海专注于app上架运营推广服务，具有多年Google Play/APP store 实力上包经验，客户主要出海巴西、印尼、菲律宾、美国、加拿大等国，目前团队成功上架的出海App数量累计已超6000款.",
-          "icon": "/assets/favicon_1762423048878.jpg",
           "enabled": true
         },
         {
