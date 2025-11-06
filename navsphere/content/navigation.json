@@ -54,14 +54,6 @@
           "icon": "/assets/favicon_1754218571142.svg"
         },
         {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.ico",
-          "enabled": true
-        },
-        {
           "id": "1760507233911",
           "title": "Free for Developers",
           "href": "https://free-for.dev/#/",
@@ -320,6 +312,14 @@
               "href": "https://lucide.dev/icons/house",
               "description": "Beautiful &\nconsistent icons",
               "icon": "/assets/img_1750831362985.png",
+              "enabled": true
+            },
+            {
+              "id": "1754229699374",
+              "title": "Lucide",
+              "href": "https://lucide.dev/",
+              "description": "Beautiful & consistent icon toolkit made by the community.",
+              "icon": "/assets/favicon_1754229702059.ico",
               "enabled": true
             }
           ]
