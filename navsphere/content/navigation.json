@@ -46,14 +46,6 @@
           "enabled": true
         },
         {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
-          "enabled": true
-        },
-        {
           "id": "1741747111596",
           "title": "PostSpark",
           "href": "https://postspark.app/",
@@ -1124,6 +1116,14 @@
               "href": "https://www.figma.com/",
               "description": "在线UI设计工具",
               "icon": "/assets/images/logos/figma.png",
+              "enabled": true
+            },
+            {
+              "id": "1735119857233",
+              "title": "截图美化工具",
+              "href": "https://shots.so/",
+              "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
+              "icon": "/assets/images/logos/shots.webp",
               "enabled": true
             }
           ],
