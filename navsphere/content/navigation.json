@@ -444,6 +444,14 @@
               "description": "AllValue为海外华人商家提供AI智能营销(AllValue Link)与多渠道开店系统(AllValue Shop)！一键开通小红书/微信小程序/独立站店铺，同时通过AI托管获客推广、碰碰贴自动种草、Google/Yelp门店曝光，提升300%同城流量。适用零售、电商、门店服务、宠物、服装、家居等多行业，立即免费试用！",
               "icon": "/assets/favicon_1762490282286.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490291977",
+              "title": "Kickstarter",
+              "href": "https://www.kickstarter.com/",
+              "description": "Kickstarter 致力於將創意專案變為現實。這裡是影片、音樂、藝術、劇場、遊戲、漫畫、攝影、以及更多種專案的家。",
+              "icon": "/assets/favicon_1762490294620.ico",
+              "enabled": true
             }
           ]
         }
