@@ -347,6 +347,14 @@
               "description": "官方的、功能强大的免费网站流量与用户行为分析工具。",
               "icon": "/assets/favicon_1762489998815.png",
               "enabled": true
+            },
+            {
+              "id": "1762490026488",
+              "title": "谷歌站长工具",
+              "href": "https://search.google.com/search-console",
+              "description": "官方工具，用于监控网站在谷歌搜索中的表现和健康状况。",
+              "icon": "/assets/favicon_1762490028905.png",
+              "enabled": true
             }
           ]
         },
