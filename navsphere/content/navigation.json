@@ -322,6 +322,14 @@
               "description": "Payoneer is your trusted global payment solution, offering secure online and international payments. Discover the best online payment system today.",
               "icon": "/assets/favicon_1762489910707.png",
               "enabled": true
+            },
+            {
+              "id": "1762489922748",
+              "title": "网易支付",
+              "href": "https://epay.163.com",
+              "description": "网易支付是网易旗下的第三方支付平台,致力于为广大用户提供安全快速的网上支付、银行卡快捷支付、手机支付等服务,提供网上付款转账、转账到银行卡、水电煤缴费、游戏点卡充值、话费充值、彩票购买、藏宝阁等服务。",
+              "icon": "/assets/favicon_1762489928279.ico",
+              "enabled": true
             }
           ]
         },
