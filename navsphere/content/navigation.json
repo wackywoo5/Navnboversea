@@ -395,6 +395,14 @@
               "description": "Discover the best websites and explore competitor and related sites with Similarsites.com, the extension that enables you to browse associated content.",
               "icon": "/assets/favicon_1762490109181.png",
               "enabled": true
+            },
+            {
+              "id": "1762490119890",
+              "title": "Majestic",
+              "href": "https://majestic.com",
+              "description": "Develop backlink strategies with our Link Intelligence data, build the strongest SEO backlink campaigns to drive organic traffic and boost your rankings today.",
+              "icon": "/assets/favicon_1762490124189.png",
+              "enabled": true
             }
           ]
         },
