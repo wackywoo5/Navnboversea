@@ -387,6 +387,14 @@
               "description": "Backed by the largest community of SEOs on the planet, Moz builds the tools that make SEO, content marketing, market research, digital PR, and local SEO easy. Start your free trial today!",
               "icon": "/assets/favicon_1762490094055.png",
               "enabled": true
+            },
+            {
+              "id": "1762490105520",
+              "title": "Similarsites.com",
+              "href": "https://www.similarsites.com",
+              "description": "Discover the best websites and explore competitor and related sites with Similarsites.com, the extension that enables you to browse associated content.",
+              "icon": "/assets/favicon_1762490109181.png",
+              "enabled": true
             }
           ]
         },
