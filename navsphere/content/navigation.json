@@ -282,6 +282,14 @@
               "description": "提供安全合规、高效便捷的跨境收款与支付服务。",
               "icon": "/assets/favicon_1762489789790.png",
               "enabled": true
+            },
+            {
+              "id": "1762489811962",
+              "title": "WorldFirst",
+              "href": "https://www.worldfirst.com",
+              "description": "WorldFirst helps businesses make international payments easily and securely at speed. Collect, convert, pay and manage your money when it suits you",
+              "icon": "/assets/favicon_1762489814326.png",
+              "enabled": true
             }
           ]
         },
