@@ -516,6 +516,14 @@
               "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
               "icon": "/assets/favicon_1762490417761.png",
               "enabled": true
+            },
+            {
+              "id": "1762490425517",
+              "title": "领英",
+              "href": "https://www.linkedin.com/",
+              "description": "1 十亿会员 | 轻松管理职业生涯。打造职业人脉。掌握行业资讯，让机会主动来找您。",
+              "icon": "/assets/favicon_1762490427796.png",
+              "enabled": true
             }
           ]
         }
