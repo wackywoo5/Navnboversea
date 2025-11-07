@@ -41,6 +41,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "4617bb99-a9dc-4ad7-92e2-3559961b22c9",
+          "title": "Affiliate联盟",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
