@@ -508,6 +508,14 @@
               "description": "探索 Tumblr 上的热门话题。查看所有 GIF 动图、同人图、关于网上最受喜爱的东西的大众讨论。",
               "icon": "/assets/favicon_1762490406148.svg",
               "enabled": true
+            },
+            {
+              "id": "1762490415495",
+              "title": "YouTube",
+              "href": "https://www.youtube.com/",
+              "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+              "icon": "/assets/favicon_1762490417761.png",
+              "enabled": true
             }
           ]
         }
