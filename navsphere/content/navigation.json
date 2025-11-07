@@ -452,6 +452,14 @@
               "description": "Kickstarter 致力於將創意專案變為現實。這裡是影片、音樂、藝術、劇場、遊戲、漫畫、攝影、以及更多種專案的家。",
               "icon": "/assets/favicon_1762490294620.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490304812",
+              "title": "Poshmark",
+              "href": "https://www.poshmark.com/",
+              "description": "Buy, sell, and discover fashion, home decor, beauty, and more",
+              "icon": "/assets/favicon_1762490307736.png",
+              "enabled": true
             }
           ]
         }
