@@ -438,6 +438,14 @@
               "enabled": true
             },
             {
+              "id": "1762490532889",
+              "title": "Instagram",
+              "href": "https://www.instagram.com/",
+              "description": "Meta旗下以图片和短视频分享为核心的社交平台。",
+              "icon": "/assets/favicon_1762490535294.png",
+              "enabled": true
+            },
+            {
               "id": "1762490253971",
               "title": "skype",
               "href": "https://www.skype.com",
@@ -563,14 +571,6 @@
               "href": "https://telegram.org/",
               "description": "Fast. Secure. Powerful.",
               "icon": "/assets/favicon_1762490487122.svg",
-              "enabled": true
-            },
-            {
-              "id": "1762490532889",
-              "title": "Instagram",
-              "href": "https://www.instagram.com/",
-              "description": "Meta旗下以图片和短视频分享为核心的社交平台。",
-              "icon": "/assets/favicon_1762490535294.png",
               "enabled": true
             }
           ]
