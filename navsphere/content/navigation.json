@@ -306,6 +306,14 @@
               "description": "Send and Receive Payments with Ease",
               "icon": "/assets/favicon_1762489882429.png",
               "enabled": true
+            },
+            {
+              "id": "1762489894303",
+              "title": "LocalBitcoins",
+              "href": "https://localbitcoins.com",
+              "description": "",
+              "icon": "/assets/favicon_1762489896532.ico",
+              "enabled": true
             }
           ]
         },
