@@ -22,14 +22,6 @@
           "enabled": true
         },
         {
-          "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
-          "icon": "/assets/images/logos/gads.ico",
-          "enabled": true
-        },
-        {
           "id": "item-1754218579319",
           "enabled": true,
           "title": "DeepSeek - 探索未至之境",
