@@ -242,7 +242,16 @@
           "icon": "Briefcase",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1762489682840",
+              "title": "Stripe",
+              "href": "https://stripe.com",
+              "description": "Stripe 是一套支持线上付款处理和商业解决方案的 API，适用于各种规模的互联网商家。通过 AI 接受付款并更快扩展。",
+              "icon": "/assets/favicon_1762489686346.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "843be0f5-7f3f-4020-836a-e1333065dbd3",
