@@ -454,6 +454,14 @@
               "enabled": true
             },
             {
+              "id": "1762490415495",
+              "title": "YouTube",
+              "href": "https://www.youtube.com/",
+              "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+              "icon": "/assets/favicon_1762490417761.png",
+              "enabled": true
+            },
+            {
               "id": "1762490253971",
               "title": "skype",
               "href": "https://www.skype.com",
@@ -467,14 +475,6 @@
               "href": "https://x.com/",
               "description": "全球重要的社交媒体平台，以实时信息传播和短博文为特色。",
               "icon": "/assets/favicon_1762490469699.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762490415495",
-              "title": "YouTube",
-              "href": "https://www.youtube.com/",
-              "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
-              "icon": "/assets/favicon_1762490417761.png",
               "enabled": true
             },
             {
