@@ -363,6 +363,14 @@
               "description": "专注 Google Analytics 与 Adobe Analytics 的技术与实战分享",
               "icon": "/assets/favicon_1762490052571.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490065478",
+              "title": "Semrush",
+              "href": "https://www.semrush.com",
+              "description": "Drive growth in SEO, PPC, content, social media, and traffic with AI-powered marketing tools for every task.",
+              "icon": "/assets/favicon_1762490068416.ico",
+              "enabled": true
             }
           ]
         },
