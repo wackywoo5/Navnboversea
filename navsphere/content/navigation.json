@@ -104,6 +104,14 @@
               "description": "NaProxy是最高质量的代理，在全球200多个国家拥有超过9000万个IP。NaProxy以最便宜的价格提供住宅Ip资源服务!",
               "icon": "/assets/favicon_1762489124435.ico",
               "enabled": true
+            },
+            {
+              "id": "1762489135367",
+              "title": "OwlProxy",
+              "href": "https://www.owlproxy.com",
+              "description": "OwlProxy提供最便宜的共享、专属和住宅代理。拥有5000万高品质IP池，支援HTTP, HTTPS, Socks5协议，为您提供200+国家和地区的真实IP位址！",
+              "icon": "/assets/favicon_1762489138190.png",
+              "enabled": true
             }
           ]
         },
