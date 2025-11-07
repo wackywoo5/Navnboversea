@@ -462,6 +462,14 @@
               "enabled": true
             },
             {
+              "id": "1762490333640",
+              "title": "KakaoTalk",
+              "href": "https://www.kakaocorp.com/",
+              "description": "韩国最主流的移动即时通讯应用",
+              "icon": "/assets/favicon_1762490337226.ico",
+              "enabled": true
+            },
+            {
               "id": "1762490277507",
               "title": "AllValue",
               "href": "https://www.allvalue.com/",
@@ -491,14 +499,6 @@
               "href": "https://www.flickr.com/",
               "description": "The nicest place on the internet is here for you: inspiration, community, creativity, art, passion, and a heaping scoop of weirdness await you. Join for free.",
               "icon": "/assets/favicon_1762490322634.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490333640",
-              "title": "KakaoTalk",
-              "href": "https://www.kakaocorp.com/",
-              "description": "韩国最主流的移动即时通讯应用",
-              "icon": "/assets/favicon_1762490337226.ico",
               "enabled": true
             },
             {
