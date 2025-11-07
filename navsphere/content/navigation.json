@@ -128,6 +128,14 @@
               "description": "The world's largest residential IP proxy provider",
               "icon": "/assets/favicon_1762489212946.ico",
               "enabled": true
+            },
+            {
+              "id": "1762489237511",
+              "title": "IPIDEA",
+              "href": "https://www.ipidea.net",
+              "description": "IPIDEA是全球HTTP企业级代理IP服务方案提供商!为客户提供全球海外代理IP,全球HTTP代理,socks5代理ip,代理IP,代理IP,住宅代理IP,在线代理,海外在线代理,HTTP代理,动态代理IP,静态代理IP,在线代理IP,住宅代理IP,国外代理IP,国外代理IP,国外在线代理IP等代理IP服务,拥有全球220+国家地区的私有住宅IP资源,满足您代理IP的需求。",
+              "icon": "/assets/favicon_1762489241556.ico",
+              "enabled": true
             }
           ]
         },
