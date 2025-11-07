@@ -64,6 +64,14 @@
               "description": "全球跨境网络一站式服务",
               "icon": "/assets/favicon_1762487832855.png",
               "enabled": true
+            },
+            {
+              "id": "1762487873791",
+              "title": "ipipd.com-全球静态原生住宅代理",
+              "href": "https://ipipd.com/",
+              "description": "IPIPD超千万的自有IP池",
+              "icon": "/assets/favicon_1762487876998.svg",
+              "enabled": true
             }
           ]
         },
