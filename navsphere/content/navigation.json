@@ -193,6 +193,14 @@
               "description": "世界领先的大型综合广告联盟，品牌广告主资源丰富。",
               "icon": "/assets/favicon_1762489467300.png",
               "enabled": true
+            },
+            {
+              "id": "1762489493647",
+              "title": "ShareASale Is Now Awin",
+              "href": "https://www.shareasale.com",
+              "description": "ShareASale has transitioned to Awin, offering the same reliable affiliate marketing services you know and trust. Create your account and get started today.",
+              "icon": "/assets/favicon_1762489497836.png",
+              "enabled": true
             }
           ]
         },
