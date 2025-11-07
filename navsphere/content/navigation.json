@@ -80,6 +80,14 @@
               "description": "Certified data scraping service providers and ASN providers,With fast and purest residential IP,sign up for free trial.",
               "icon": "/assets/favicon_1762487903848.ico",
               "enabled": true
+            },
+            {
+              "id": "1762488074466",
+              "title": "Decodo (Smartproxy)",
+              "href": "https://decodo.com/",
+              "description": "Access 125M+ global IPs with Decodo (Smartproxy) – 2025 Value Choice Award winner for data collection. Trusted by Proxyway.",
+              "icon": "/assets/favicon_1762488078361.ico",
+              "enabled": true
             }
           ]
         },
