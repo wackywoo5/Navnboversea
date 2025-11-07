@@ -160,6 +160,14 @@
               "description": "IPIPGO是提供稳定高匿的ip代理服务商,拥有9000W+海外家庭IP,24小时去重,IP可用率达99.9%,提供http代理、socks5代理、动静态ip代理等国外ip代理服务器,在线网页或软件代理ip方便快捷,可免费试用.",
               "icon": "/assets/favicon_1762489335817.ico",
               "enabled": true
+            },
+            {
+              "id": "1762489347475",
+              "title": "ABCproxy",
+              "href": "https://www.abcproxy.com",
+              "description": "Access 200M+ real residential IPs from 190+ countries. High availability, city-level targeting, and the most cost-effective rates. Best residential IP proxy solutions.",
+              "icon": "/assets/favicon_1762489349858.png",
+              "enabled": true
             }
           ]
         },
