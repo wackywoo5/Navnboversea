@@ -379,6 +379,14 @@
               "description": "We help marketers drive visibility across AI search, SEO, content, and social – with the largest AI and search databases online.",
               "icon": "/assets/favicon_1762490080436.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490090461",
+              "title": "Moz",
+              "href": "https://moz.com",
+              "description": "Backed by the largest community of SEOs on the planet, Moz builds the tools that make SEO, content marketing, market research, digital PR, and local SEO easy. Start your free trial today!",
+              "icon": "/assets/favicon_1762490094055.png",
+              "enabled": true
             }
           ]
         },
