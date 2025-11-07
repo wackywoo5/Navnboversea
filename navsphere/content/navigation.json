@@ -564,6 +564,14 @@
               "description": "全球用户数量最大的社交网络平台。",
               "icon": "/assets/favicon_1762490517109.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490532889",
+              "title": "Instagram",
+              "href": "https://www.instagram.com/",
+              "description": "Meta旗下以图片和短视频分享为核心的社交平台。",
+              "icon": "/assets/favicon_1762490535294.png",
+              "enabled": true
             }
           ]
         }
