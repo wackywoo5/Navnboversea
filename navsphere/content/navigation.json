@@ -65,6 +65,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "35f5c255-b802-4ba7-bd74-da8b11168a4f",
+          "title": "社交媒体",
+          "icon": "Target",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
