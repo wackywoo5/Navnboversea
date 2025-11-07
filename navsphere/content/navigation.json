@@ -180,95 +180,6 @@
           ]
         },
         {
-          "id": "843be0f5-7f3f-4020-836a-e1333065dbd3",
-          "title": "SEO工具",
-          "icon": "Laptop",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1762489996652",
-              "title": "谷歌分析",
-              "href": "https://analytics.google.com",
-              "description": "官方的、功能强大的免费网站流量与用户行为分析工具。",
-              "icon": "/assets/favicon_1762489998815.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490026488",
-              "title": "谷歌站长工具",
-              "href": "https://search.google.com/search-console",
-              "description": "官方工具，用于监控网站在谷歌搜索中的表现和健康状况。",
-              "icon": "/assets/favicon_1762490028905.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490048165",
-              "title": "GA小站",
-              "href": "https://www.ichdata.com",
-              "description": "专注 Google Analytics 与 Adobe Analytics 的技术与实战分享",
-              "icon": "/assets/favicon_1762490052571.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762490065478",
-              "title": "Semrush",
-              "href": "https://www.semrush.com",
-              "description": "Drive growth in SEO, PPC, content, social media, and traffic with AI-powered marketing tools for every task.",
-              "icon": "/assets/favicon_1762490068416.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762490078490",
-              "title": "Ahrefs",
-              "href": "https://ahrefs.com",
-              "description": "We help marketers drive visibility across AI search, SEO, content, and social – with the largest AI and search databases online.",
-              "icon": "/assets/favicon_1762490080436.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762490090461",
-              "title": "Moz",
-              "href": "https://moz.com",
-              "description": "Backed by the largest community of SEOs on the planet, Moz builds the tools that make SEO, content marketing, market research, digital PR, and local SEO easy. Start your free trial today!",
-              "icon": "/assets/favicon_1762490094055.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490105520",
-              "title": "Similarsites.com",
-              "href": "https://www.similarsites.com",
-              "description": "Discover the best websites and explore competitor and related sites with Similarsites.com, the extension that enables you to browse associated content.",
-              "icon": "/assets/favicon_1762490109181.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490119890",
-              "title": "Majestic",
-              "href": "https://majestic.com",
-              "description": "Develop backlink strategies with our Link Intelligence data, build the strongest SEO backlink campaigns to drive organic traffic and boost your rankings today.",
-              "icon": "/assets/favicon_1762490124189.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490152810",
-              "title": "Mixpanel",
-              "href": "https://mixpanel.com",
-              "description": "Get a complete view of your customers with Mixpanel digital analytics. Track, analyze, and act on user behavior to drive acquisition, growth, and retention.",
-              "icon": "/assets/favicon_1762490154729.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490166227",
-              "title": "Yoast",
-              "href": "https://yoast.com",
-              "description": "Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.",
-              "icon": "/assets/favicon_1762490168156.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "4617bb99-a9dc-4ad7-92e2-3559961b22c9",
           "title": "Affiliate联盟",
           "icon": "Link",
@@ -321,103 +232,6 @@
               "href": "https://www.flexoffers.com/",
               "description": "FlexOffers is a recognized leader in performance-based marketing. We employ a “one-roof” approach that enables us to work with over 12K advertisers across 65 networks and over 75K publisher programsSERP Snippet Preview",
               "icon": "/assets/favicon_1762489632404.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "23a3ff66-6eed-4343-9c3c-87c9dfb936d9",
-          "title": "跨境支付",
-          "icon": "Briefcase",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1762489682840",
-              "title": "Stripe",
-              "href": "https://stripe.com",
-              "description": "Stripe 是一套支持线上付款处理和商业解决方案的 API，适用于各种规模的互联网商家。通过 AI 接受付款并更快扩展。",
-              "icon": "/assets/favicon_1762489686346.svg",
-              "enabled": true
-            },
-            {
-              "id": "1762489699082",
-              "title": "PayPal",
-              "href": "https://www.paypal.com",
-              "description": "Use your PayPal account to spend, send, and manage your money. Or, create a merchant account for your business. And so much more. Discover the details here.",
-              "icon": "/assets/favicon_1762489701314.png",
-              "enabled": true
-            },
-            {
-              "id": "1762489759980",
-              "title": "Pingpongx",
-              "href": "https://www.pingpongx.com/",
-              "description": "中国跨境行业的创新引领者，为跨境电商和出海企业提供收款服务。",
-              "icon": "/assets/favicon_1762489764000.png",
-              "enabled": true
-            },
-            {
-              "id": "1762489712234",
-              "title": "Oceanpayment",
-              "href": "https://www.oceanpayment.com",
-              "description": "Online payment processing for global business. Oceanpayment is one of the best online payment processing companies for fast and secure payment.",
-              "icon": "/assets/favicon_1762489716405.png",
-              "enabled": true
-            },
-            {
-              "id": "1762489785903",
-              "title": "Photonpay",
-              "href": "https://www.photonpay.com/",
-              "description": "提供安全合规、高效便捷的跨境收款与支付服务。",
-              "icon": "/assets/favicon_1762489789790.png",
-              "enabled": true
-            },
-            {
-              "id": "1762489811962",
-              "title": "WorldFirst",
-              "href": "https://www.worldfirst.com",
-              "description": "WorldFirst helps businesses make international payments easily and securely at speed. Collect, convert, pay and manage your money when it suits you",
-              "icon": "/assets/favicon_1762489814326.png",
-              "enabled": true
-            },
-            {
-              "id": "1762489850158",
-              "title": "连连",
-              "href": "https://www.lianlianpay.com/",
-              "description": "服务大量跨境电商卖家的跨境支付平台",
-              "icon": "/assets/favicon_1762489854822.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762489878356",
-              "title": "Paxum",
-              "href": "https://www.paxum.com",
-              "description": "Send and Receive Payments with Ease",
-              "icon": "/assets/favicon_1762489882429.png",
-              "enabled": true
-            },
-            {
-              "id": "1762489894303",
-              "title": "LocalBitcoins",
-              "href": "https://localbitcoins.com",
-              "description": "",
-              "icon": "/assets/favicon_1762489896532.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762489908341",
-              "title": "Payoneer",
-              "href": "https://www.payoneer.com",
-              "description": "Payoneer is your trusted global payment solution, offering secure online and international payments. Discover the best online payment system today.",
-              "icon": "/assets/favicon_1762489910707.png",
-              "enabled": true
-            },
-            {
-              "id": "1762489922748",
-              "title": "网易支付",
-              "href": "https://epay.163.com",
-              "description": "网易支付是网易旗下的第三方支付平台,致力于为广大用户提供安全快速的网上支付、银行卡快捷支付、手机支付等服务,提供网上付款转账、转账到银行卡、水电煤缴费、游戏点卡充值、话费充值、彩票购买、藏宝阁等服务。",
-              "icon": "/assets/favicon_1762489928279.ico",
               "enabled": true
             }
           ]
@@ -571,6 +385,192 @@
               "href": "https://telegram.org/",
               "description": "Fast. Secure. Powerful.",
               "icon": "/assets/favicon_1762490487122.svg",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "23a3ff66-6eed-4343-9c3c-87c9dfb936d9",
+          "title": "跨境支付",
+          "icon": "Briefcase",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1762489682840",
+              "title": "Stripe",
+              "href": "https://stripe.com",
+              "description": "Stripe 是一套支持线上付款处理和商业解决方案的 API，适用于各种规模的互联网商家。通过 AI 接受付款并更快扩展。",
+              "icon": "/assets/favicon_1762489686346.svg",
+              "enabled": true
+            },
+            {
+              "id": "1762489699082",
+              "title": "PayPal",
+              "href": "https://www.paypal.com",
+              "description": "Use your PayPal account to spend, send, and manage your money. Or, create a merchant account for your business. And so much more. Discover the details here.",
+              "icon": "/assets/favicon_1762489701314.png",
+              "enabled": true
+            },
+            {
+              "id": "1762489759980",
+              "title": "Pingpongx",
+              "href": "https://www.pingpongx.com/",
+              "description": "中国跨境行业的创新引领者，为跨境电商和出海企业提供收款服务。",
+              "icon": "/assets/favicon_1762489764000.png",
+              "enabled": true
+            },
+            {
+              "id": "1762489712234",
+              "title": "Oceanpayment",
+              "href": "https://www.oceanpayment.com",
+              "description": "Online payment processing for global business. Oceanpayment is one of the best online payment processing companies for fast and secure payment.",
+              "icon": "/assets/favicon_1762489716405.png",
+              "enabled": true
+            },
+            {
+              "id": "1762489785903",
+              "title": "Photonpay",
+              "href": "https://www.photonpay.com/",
+              "description": "提供安全合规、高效便捷的跨境收款与支付服务。",
+              "icon": "/assets/favicon_1762489789790.png",
+              "enabled": true
+            },
+            {
+              "id": "1762489811962",
+              "title": "WorldFirst",
+              "href": "https://www.worldfirst.com",
+              "description": "WorldFirst helps businesses make international payments easily and securely at speed. Collect, convert, pay and manage your money when it suits you",
+              "icon": "/assets/favicon_1762489814326.png",
+              "enabled": true
+            },
+            {
+              "id": "1762489850158",
+              "title": "连连",
+              "href": "https://www.lianlianpay.com/",
+              "description": "服务大量跨境电商卖家的跨境支付平台",
+              "icon": "/assets/favicon_1762489854822.ico",
+              "enabled": true
+            },
+            {
+              "id": "1762489878356",
+              "title": "Paxum",
+              "href": "https://www.paxum.com",
+              "description": "Send and Receive Payments with Ease",
+              "icon": "/assets/favicon_1762489882429.png",
+              "enabled": true
+            },
+            {
+              "id": "1762489894303",
+              "title": "LocalBitcoins",
+              "href": "https://localbitcoins.com",
+              "description": "",
+              "icon": "/assets/favicon_1762489896532.ico",
+              "enabled": true
+            },
+            {
+              "id": "1762489908341",
+              "title": "Payoneer",
+              "href": "https://www.payoneer.com",
+              "description": "Payoneer is your trusted global payment solution, offering secure online and international payments. Discover the best online payment system today.",
+              "icon": "/assets/favicon_1762489910707.png",
+              "enabled": true
+            },
+            {
+              "id": "1762489922748",
+              "title": "网易支付",
+              "href": "https://epay.163.com",
+              "description": "网易支付是网易旗下的第三方支付平台,致力于为广大用户提供安全快速的网上支付、银行卡快捷支付、手机支付等服务,提供网上付款转账、转账到银行卡、水电煤缴费、游戏点卡充值、话费充值、彩票购买、藏宝阁等服务。",
+              "icon": "/assets/favicon_1762489928279.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "843be0f5-7f3f-4020-836a-e1333065dbd3",
+          "title": "SEO工具",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1762489996652",
+              "title": "谷歌分析",
+              "href": "https://analytics.google.com",
+              "description": "官方的、功能强大的免费网站流量与用户行为分析工具。",
+              "icon": "/assets/favicon_1762489998815.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490026488",
+              "title": "谷歌站长工具",
+              "href": "https://search.google.com/search-console",
+              "description": "官方工具，用于监控网站在谷歌搜索中的表现和健康状况。",
+              "icon": "/assets/favicon_1762490028905.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490048165",
+              "title": "GA小站",
+              "href": "https://www.ichdata.com",
+              "description": "专注 Google Analytics 与 Adobe Analytics 的技术与实战分享",
+              "icon": "/assets/favicon_1762490052571.ico",
+              "enabled": true
+            },
+            {
+              "id": "1762490065478",
+              "title": "Semrush",
+              "href": "https://www.semrush.com",
+              "description": "Drive growth in SEO, PPC, content, social media, and traffic with AI-powered marketing tools for every task.",
+              "icon": "/assets/favicon_1762490068416.ico",
+              "enabled": true
+            },
+            {
+              "id": "1762490078490",
+              "title": "Ahrefs",
+              "href": "https://ahrefs.com",
+              "description": "We help marketers drive visibility across AI search, SEO, content, and social – with the largest AI and search databases online.",
+              "icon": "/assets/favicon_1762490080436.ico",
+              "enabled": true
+            },
+            {
+              "id": "1762490090461",
+              "title": "Moz",
+              "href": "https://moz.com",
+              "description": "Backed by the largest community of SEOs on the planet, Moz builds the tools that make SEO, content marketing, market research, digital PR, and local SEO easy. Start your free trial today!",
+              "icon": "/assets/favicon_1762490094055.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490105520",
+              "title": "Similarsites.com",
+              "href": "https://www.similarsites.com",
+              "description": "Discover the best websites and explore competitor and related sites with Similarsites.com, the extension that enables you to browse associated content.",
+              "icon": "/assets/favicon_1762490109181.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490119890",
+              "title": "Majestic",
+              "href": "https://majestic.com",
+              "description": "Develop backlink strategies with our Link Intelligence data, build the strongest SEO backlink campaigns to drive organic traffic and boost your rankings today.",
+              "icon": "/assets/favicon_1762490124189.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490152810",
+              "title": "Mixpanel",
+              "href": "https://mixpanel.com",
+              "description": "Get a complete view of your customers with Mixpanel digital analytics. Track, analyze, and act on user behavior to drive acquisition, growth, and retention.",
+              "icon": "/assets/favicon_1762490154729.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490166227",
+              "title": "Yoast",
+              "href": "https://yoast.com",
+              "description": "Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.",
+              "icon": "/assets/favicon_1762490168156.ico",
               "enabled": true
             }
           ]
