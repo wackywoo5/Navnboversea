@@ -540,6 +540,14 @@
               "description": "全球重要的社交媒体平台，以实时信息传播和短博文为特色。",
               "icon": "/assets/favicon_1762490469699.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490484133",
+              "title": "Telegram",
+              "href": "https://telegram.org/",
+              "description": "Fast. Secure. Powerful.",
+              "icon": "/assets/favicon_1762490487122.svg",
+              "enabled": true
             }
           ]
         }
