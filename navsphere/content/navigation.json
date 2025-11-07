@@ -500,6 +500,14 @@
               "description": "在電腦桌面聊天、傳送 Snap、探索故事和試用特效鏡頭，或在手機下載應用程式！了解如何在 Snapchat 與好友培養感情和共同創作，隨時隨地都可以。",
               "icon": "/assets/favicon_1762490392908.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490402499",
+              "title": "Tumblr",
+              "href": "https://www.tumblr.com/",
+              "description": "探索 Tumblr 上的热门话题。查看所有 GIF 动图、同人图、关于网上最受喜爱的东西的大众讨论。",
+              "icon": "/assets/favicon_1762490406148.svg",
+              "enabled": true
             }
           ]
         }
