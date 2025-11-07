@@ -180,6 +180,95 @@
           ]
         },
         {
+          "id": "843be0f5-7f3f-4020-836a-e1333065dbd3",
+          "title": "SEO工具",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1762489996652",
+              "title": "谷歌分析",
+              "href": "https://analytics.google.com",
+              "description": "官方的、功能强大的免费网站流量与用户行为分析工具。",
+              "icon": "/assets/favicon_1762489998815.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490026488",
+              "title": "谷歌站长工具",
+              "href": "https://search.google.com/search-console",
+              "description": "官方工具，用于监控网站在谷歌搜索中的表现和健康状况。",
+              "icon": "/assets/favicon_1762490028905.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490048165",
+              "title": "GA小站",
+              "href": "https://www.ichdata.com",
+              "description": "专注 Google Analytics 与 Adobe Analytics 的技术与实战分享",
+              "icon": "/assets/favicon_1762490052571.ico",
+              "enabled": true
+            },
+            {
+              "id": "1762490065478",
+              "title": "Semrush",
+              "href": "https://www.semrush.com",
+              "description": "Drive growth in SEO, PPC, content, social media, and traffic with AI-powered marketing tools for every task.",
+              "icon": "/assets/favicon_1762490068416.ico",
+              "enabled": true
+            },
+            {
+              "id": "1762490078490",
+              "title": "Ahrefs",
+              "href": "https://ahrefs.com",
+              "description": "We help marketers drive visibility across AI search, SEO, content, and social – with the largest AI and search databases online.",
+              "icon": "/assets/favicon_1762490080436.ico",
+              "enabled": true
+            },
+            {
+              "id": "1762490090461",
+              "title": "Moz",
+              "href": "https://moz.com",
+              "description": "Backed by the largest community of SEOs on the planet, Moz builds the tools that make SEO, content marketing, market research, digital PR, and local SEO easy. Start your free trial today!",
+              "icon": "/assets/favicon_1762490094055.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490105520",
+              "title": "Similarsites.com",
+              "href": "https://www.similarsites.com",
+              "description": "Discover the best websites and explore competitor and related sites with Similarsites.com, the extension that enables you to browse associated content.",
+              "icon": "/assets/favicon_1762490109181.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490119890",
+              "title": "Majestic",
+              "href": "https://majestic.com",
+              "description": "Develop backlink strategies with our Link Intelligence data, build the strongest SEO backlink campaigns to drive organic traffic and boost your rankings today.",
+              "icon": "/assets/favicon_1762490124189.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490152810",
+              "title": "Mixpanel",
+              "href": "https://mixpanel.com",
+              "description": "Get a complete view of your customers with Mixpanel digital analytics. Track, analyze, and act on user behavior to drive acquisition, growth, and retention.",
+              "icon": "/assets/favicon_1762490154729.png",
+              "enabled": true
+            },
+            {
+              "id": "1762490166227",
+              "title": "Yoast",
+              "href": "https://yoast.com",
+              "description": "Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.",
+              "icon": "/assets/favicon_1762490168156.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "4617bb99-a9dc-4ad7-92e2-3559961b22c9",
           "title": "Affiliate联盟",
           "icon": "Link",
@@ -329,95 +418,6 @@
               "href": "https://epay.163.com",
               "description": "网易支付是网易旗下的第三方支付平台,致力于为广大用户提供安全快速的网上支付、银行卡快捷支付、手机支付等服务,提供网上付款转账、转账到银行卡、水电煤缴费、游戏点卡充值、话费充值、彩票购买、藏宝阁等服务。",
               "icon": "/assets/favicon_1762489928279.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "843be0f5-7f3f-4020-836a-e1333065dbd3",
-          "title": "SEO工具",
-          "icon": "Laptop",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1762489996652",
-              "title": "谷歌分析",
-              "href": "https://analytics.google.com",
-              "description": "官方的、功能强大的免费网站流量与用户行为分析工具。",
-              "icon": "/assets/favicon_1762489998815.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490026488",
-              "title": "谷歌站长工具",
-              "href": "https://search.google.com/search-console",
-              "description": "官方工具，用于监控网站在谷歌搜索中的表现和健康状况。",
-              "icon": "/assets/favicon_1762490028905.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490048165",
-              "title": "GA小站",
-              "href": "https://www.ichdata.com",
-              "description": "专注 Google Analytics 与 Adobe Analytics 的技术与实战分享",
-              "icon": "/assets/favicon_1762490052571.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762490065478",
-              "title": "Semrush",
-              "href": "https://www.semrush.com",
-              "description": "Drive growth in SEO, PPC, content, social media, and traffic with AI-powered marketing tools for every task.",
-              "icon": "/assets/favicon_1762490068416.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762490078490",
-              "title": "Ahrefs",
-              "href": "https://ahrefs.com",
-              "description": "We help marketers drive visibility across AI search, SEO, content, and social – with the largest AI and search databases online.",
-              "icon": "/assets/favicon_1762490080436.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762490090461",
-              "title": "Moz",
-              "href": "https://moz.com",
-              "description": "Backed by the largest community of SEOs on the planet, Moz builds the tools that make SEO, content marketing, market research, digital PR, and local SEO easy. Start your free trial today!",
-              "icon": "/assets/favicon_1762490094055.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490105520",
-              "title": "Similarsites.com",
-              "href": "https://www.similarsites.com",
-              "description": "Discover the best websites and explore competitor and related sites with Similarsites.com, the extension that enables you to browse associated content.",
-              "icon": "/assets/favicon_1762490109181.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490119890",
-              "title": "Majestic",
-              "href": "https://majestic.com",
-              "description": "Develop backlink strategies with our Link Intelligence data, build the strongest SEO backlink campaigns to drive organic traffic and boost your rankings today.",
-              "icon": "/assets/favicon_1762490124189.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490152810",
-              "title": "Mixpanel",
-              "href": "https://mixpanel.com",
-              "description": "Get a complete view of your customers with Mixpanel digital analytics. Track, analyze, and act on user behavior to drive acquisition, growth, and retention.",
-              "icon": "/assets/favicon_1762490154729.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490166227",
-              "title": "Yoast",
-              "href": "https://yoast.com",
-              "description": "Yoast helps you with your website's search engine optimization, with our internationally loved software and our online SEO courses.",
-              "icon": "/assets/favicon_1762490168156.ico",
               "enabled": true
             }
           ]
