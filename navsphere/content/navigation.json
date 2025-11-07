@@ -476,6 +476,14 @@
               "description": "韩国最主流的移动即时通讯应用",
               "icon": "/assets/favicon_1762490337226.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490362405",
+              "title": "Line",
+              "href": "https://line.me/",
+              "description": "在日本、台湾和东南亚地区极为流行的社交聊天应用。",
+              "icon": "/assets/favicon_1762490365788.png",
+              "enabled": true
             }
           ]
         }
