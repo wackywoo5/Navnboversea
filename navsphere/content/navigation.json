@@ -72,6 +72,14 @@
               "description": "IPIPD超千万的自有IP池",
               "icon": "/assets/favicon_1762487876998.svg",
               "enabled": true
+            },
+            {
+              "id": "1762487901581",
+              "title": "Novproxy",
+              "href": "https://novproxy.com/",
+              "description": "Certified data scraping service providers and ASN providers,With fast and purest residential IP,sign up for free trial.",
+              "icon": "/assets/favicon_1762487903848.ico",
+              "enabled": true
             }
           ]
         },
