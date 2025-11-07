@@ -40,7 +40,16 @@
           "icon": "BarChart",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762487654221_cil9n1y1n",
+              "title": "IPRoyal",
+              "href": "https://iproyal.com/",
+              "description": "Get a proxy service provider without contracts, non-expiring traffic, and easy self-service.",
+              "icon": "/assets/favicon_1762487632915.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4617bb99-a9dc-4ad7-92e2-3559961b22c9",
