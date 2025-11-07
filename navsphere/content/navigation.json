@@ -371,6 +371,14 @@
               "description": "Drive growth in SEO, PPC, content, social media, and traffic with AI-powered marketing tools for every task.",
               "icon": "/assets/favicon_1762490068416.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490078490",
+              "title": "Ahrefs",
+              "href": "https://ahrefs.com",
+              "description": "We help marketers drive visibility across AI search, SEO, content, and social – with the largest AI and search databases online.",
+              "icon": "/assets/favicon_1762490080436.ico",
+              "enabled": true
             }
           ]
         },
