@@ -33,7 +33,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "d60a1528-7f54-4e67-8261-8d55cf1cc594",
+          "title": "IP代理",
+          "icon": "BarChart",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1761724945457",
