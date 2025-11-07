@@ -96,6 +96,14 @@
               "description": "Over 70M+ premium IPs via Rapidproxy - Enjoy easy data extraction, avoiding CAPTCHAs, IP blocks with 220+ locations targeting, non-expiring traffic.",
               "icon": "/assets/favicon_1762488202967.png",
               "enabled": true
+            },
+            {
+              "id": "1762489122075",
+              "title": "NaProxy",
+              "href": "https://www.naproxy.com",
+              "description": "NaProxy是最高质量的代理，在全球200多个国家拥有超过9000万个IP。NaProxy以最便宜的价格提供住宅Ip资源服务!",
+              "icon": "/assets/favicon_1762489124435.ico",
+              "enabled": true
             }
           ]
         },
