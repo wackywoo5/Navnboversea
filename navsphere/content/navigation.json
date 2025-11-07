@@ -403,6 +403,14 @@
               "description": "Develop backlink strategies with our Link Intelligence data, build the strongest SEO backlink campaigns to drive organic traffic and boost your rankings today.",
               "icon": "/assets/favicon_1762490124189.png",
               "enabled": true
+            },
+            {
+              "id": "1762490152810",
+              "title": "Mixpanel",
+              "href": "https://mixpanel.com",
+              "description": "Get a complete view of your customers with Mixpanel digital analytics. Track, analyze, and act on user behavior to drive acquisition, growth, and retention.",
+              "icon": "/assets/favicon_1762490154729.png",
+              "enabled": true
             }
           ]
         },
