@@ -168,14 +168,6 @@
               "description": "Access 200M+ real residential IPs from 190+ countries. High availability, city-level targeting, and the most cost-effective rates. Best residential IP proxy solutions.",
               "icon": "/assets/favicon_1762489349858.png",
               "enabled": true
-            },
-            {
-              "id": "1762489381068",
-              "title": "Proxy4free",
-              "href": "https://proxy4free.com",
-              "description": "Proxy4Free是最高质量的代理，在全球190多个国家拥有超过9000万个ip。Proxy4Free以最便宜的价格提供住宅Ip资源服务!",
-              "icon": "/assets/favicon_1762489383868.ico",
-              "enabled": true
             }
           ]
         },
