@@ -201,6 +201,14 @@
               "description": "ShareASale has transitioned to Awin, offering the same reliable affiliate marketing services you know and trust. Create your account and get started today.",
               "icon": "/assets/favicon_1762489497836.png",
               "enabled": true
+            },
+            {
+              "id": "1762489514704",
+              "title": "Amazon",
+              "href": "https://affiliate-program.amazon.com",
+              "description": "亚马逊官方联盟平台，依托全球最大的电商平台，信誉度高。",
+              "icon": "/assets/favicon_1762489518431.ico",
+              "enabled": true
             }
           ]
         },
