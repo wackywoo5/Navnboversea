@@ -258,6 +258,14 @@
               "description": "Use your PayPal account to spend, send, and manage your money. Or, create a merchant account for your business. And so much more. Discover the details here.",
               "icon": "/assets/favicon_1762489701314.png",
               "enabled": true
+            },
+            {
+              "id": "1762489712234",
+              "title": "Oceanpayment",
+              "href": "https://www.oceanpayment.com",
+              "description": "Online payment processing for global business. Oceanpayment is one of the best online payment processing companies for fast and secure payment.",
+              "icon": "/assets/favicon_1762489716405.png",
+              "enabled": true
             }
           ]
         },
