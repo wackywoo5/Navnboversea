@@ -96,6 +96,14 @@
               "description": "Proxyma is a leading residential proxy service provider offering both Static and Rotating proxies. Get unmatched anonymity and reliability for your web scraping, data collection, and online privacy needs.",
               "icon": "/assets/favicon_1762488166030.ico",
               "enabled": true
+            },
+            {
+              "id": "1762488199244",
+              "title": "Rapidproxy",
+              "href": "https://www.rapidproxy.io/",
+              "description": "Over 70M+ premium IPs via Rapidproxy - Enjoy easy data extraction, avoiding CAPTCHAs, IP blocks with 220+ locations targeting, non-expiring traffic.",
+              "icon": "/assets/favicon_1762488202967.png",
+              "enabled": true
             }
           ]
         },
