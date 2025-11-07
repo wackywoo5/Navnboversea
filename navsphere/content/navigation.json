@@ -548,6 +548,14 @@
               "description": "Fast. Secure. Powerful.",
               "icon": "/assets/favicon_1762490487122.svg",
               "enabled": true
+            },
+            {
+              "id": "1762490497362",
+              "title": "WhatsApp",
+              "href": "https://www.whatsapp.com/",
+              "description": "安全可靠的免费私密消息和通话",
+              "icon": "/assets/favicon_1762490501038.png",
+              "enabled": true
             }
           ]
         }
