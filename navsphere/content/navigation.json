@@ -27,6 +27,15 @@
       "enabled": true
     },
     {
+      "id": "1762487265719",
+      "title": "跨境工具包",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1366,15 +1375,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1762487265719",
-      "title": "跨境工具包",
-      "icon": "Globe",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
