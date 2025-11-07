@@ -1366,6 +1366,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1762487265719",
+      "title": "跨境工具包",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
