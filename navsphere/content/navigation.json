@@ -144,6 +144,14 @@
               "description": "High-Quality Proxy Service for Web Data Scraping",
               "icon": "/assets/favicon_1762489270235.ico",
               "enabled": true
+            },
+            {
+              "id": "1762489285702",
+              "title": "IPFoxy",
+              "href": "https://www.ipfoxy.com",
+              "description": "IPFoxy offers reliable residential proxy services to enterprises worldwide, providing both static and rotating dedicated proxy to meet all your networking needs.",
+              "icon": "/assets/favicon_1762489288768.ico",
+              "enabled": true
             }
           ]
         },
