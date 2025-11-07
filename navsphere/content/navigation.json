@@ -339,7 +339,16 @@
           "icon": "Laptop",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1762489996652",
+              "title": "谷歌分析",
+              "href": "https://analytics.google.com",
+              "description": "官方的、功能强大的免费网站流量与用户行为分析工具。",
+              "icon": "/assets/favicon_1762489998815.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "35f5c255-b802-4ba7-bd74-da8b11168a4f",
