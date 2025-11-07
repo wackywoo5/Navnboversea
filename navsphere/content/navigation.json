@@ -314,6 +314,14 @@
               "description": "",
               "icon": "/assets/favicon_1762489896532.ico",
               "enabled": true
+            },
+            {
+              "id": "1762489908341",
+              "title": "Payoneer",
+              "href": "https://www.payoneer.com",
+              "description": "Payoneer is your trusted global payment solution, offering secure online and international payments. Discover the best online payment system today.",
+              "icon": "/assets/favicon_1762489910707.png",
+              "enabled": true
             }
           ]
         },
