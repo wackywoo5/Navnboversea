@@ -436,6 +436,14 @@
               "description": "立即开始免费的 Teams 视频通话!轻松连接、协作和通信。享受视频通话、聊天、文件共享等功能。非常适用于个人、自由职业者、独立创业者、兼职助理、教师、小型企业和社交活动。立即开始!",
               "icon": "/assets/favicon_1762490258681.ico",
               "enabled": true
+            },
+            {
+              "id": "1762490277507",
+              "title": "AllValue",
+              "href": "https://www.allvalue.com/",
+              "description": "AllValue为海外华人商家提供AI智能营销(AllValue Link)与多渠道开店系统(AllValue Shop)！一键开通小红书/微信小程序/独立站店铺，同时通过AI托管获客推广、碰碰贴自动种草、Google/Yelp门店曝光，提升300%同城流量。适用零售、电商、门店服务、宠物、服装、家居等多行业，立即免费试用！",
+              "icon": "/assets/favicon_1762490282286.ico",
+              "enabled": true
             }
           ]
         }
