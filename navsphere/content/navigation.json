@@ -478,6 +478,14 @@
               "enabled": true
             },
             {
+              "id": "1762490362405",
+              "title": "Line",
+              "href": "https://line.me/",
+              "description": "在日本、台湾和东南亚地区极为流行的社交聊天应用。",
+              "icon": "/assets/favicon_1762490365788.png",
+              "enabled": true
+            },
+            {
               "id": "1762490291977",
               "title": "Kickstarter",
               "href": "https://www.kickstarter.com/",
@@ -499,14 +507,6 @@
               "href": "https://www.flickr.com/",
               "description": "The nicest place on the internet is here for you: inspiration, community, creativity, art, passion, and a heaping scoop of weirdness await you. Join for free.",
               "icon": "/assets/favicon_1762490322634.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490362405",
-              "title": "Line",
-              "href": "https://line.me/",
-              "description": "在日本、台湾和东南亚地区极为流行的社交聊天应用。",
-              "icon": "/assets/favicon_1762490365788.png",
               "enabled": true
             },
             {
