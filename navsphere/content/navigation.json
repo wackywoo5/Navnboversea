@@ -486,6 +486,14 @@
               "enabled": true
             },
             {
+              "id": "1762490446742",
+              "title": "Reddit",
+              "href": "https://www.reddit.com/",
+              "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
+              "icon": "/assets/favicon_1762490449522.png",
+              "enabled": true
+            },
+            {
               "id": "1762490277507",
               "title": "AllValue",
               "href": "https://www.allvalue.com/",
@@ -555,14 +563,6 @@
               "href": "https://www.flickr.com/",
               "description": "The nicest place on the internet is here for you: inspiration, community, creativity, art, passion, and a heaping scoop of weirdness await you. Join for free.",
               "icon": "/assets/favicon_1762490322634.png",
-              "enabled": true
-            },
-            {
-              "id": "1762490446742",
-              "title": "Reddit",
-              "href": "https://www.reddit.com/",
-              "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
-              "icon": "/assets/favicon_1762490449522.png",
               "enabled": true
             },
             {
