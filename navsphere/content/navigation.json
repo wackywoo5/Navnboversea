@@ -446,6 +446,14 @@
               "enabled": true
             },
             {
+              "id": "1762490446742",
+              "title": "Reddit",
+              "href": "https://www.reddit.com/",
+              "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
+              "icon": "/assets/favicon_1762490449522.png",
+              "enabled": true
+            },
+            {
               "id": "1762490497362",
               "title": "WhatsApp",
               "href": "https://www.whatsapp.com/",
@@ -483,14 +491,6 @@
               "href": "https://www.kakaocorp.com/",
               "description": "韩国最主流的移动即时通讯应用",
               "icon": "/assets/favicon_1762490337226.ico",
-              "enabled": true
-            },
-            {
-              "id": "1762490446742",
-              "title": "Reddit",
-              "href": "https://www.reddit.com/",
-              "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
-              "icon": "/assets/favicon_1762490449522.png",
               "enabled": true
             },
             {
