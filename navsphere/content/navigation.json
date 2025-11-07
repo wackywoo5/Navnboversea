@@ -217,6 +217,14 @@
               "description": "Convert2Media is an award-winning CPA network focused on bringing top quality traffic to advertisers and providing publishers with the best quality offers.",
               "icon": "/assets/favicon_1762489572427.ico",
               "enabled": true
+            },
+            {
+              "id": "1762489603868",
+              "title": "ClickBank",
+              "href": "https://www.clickbank.com",
+              "description": "ClickBank is a leading global retailer and affiliate marketplace, connecting digital content creators with affiliate marketers worldwide.",
+              "icon": "/assets/favicon_1762489606173.ico",
+              "enabled": true
             }
           ]
         },
