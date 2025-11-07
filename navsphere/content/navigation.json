@@ -250,6 +250,14 @@
               "description": "Stripe 是一套支持线上付款处理和商业解决方案的 API，适用于各种规模的互联网商家。通过 AI 接受付款并更快扩展。",
               "icon": "/assets/favicon_1762489686346.svg",
               "enabled": true
+            },
+            {
+              "id": "1762489699082",
+              "title": "PayPal",
+              "href": "https://www.paypal.com",
+              "description": "Use your PayPal account to spend, send, and manage your money. Or, create a merchant account for your business. And so much more. Discover the details here.",
+              "icon": "/assets/favicon_1762489701314.png",
+              "enabled": true
             }
           ]
         },
