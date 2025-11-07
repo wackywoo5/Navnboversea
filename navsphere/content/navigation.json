@@ -120,6 +120,14 @@
               "description": "Discover Blurpath",
               "icon": "/assets/favicon_1762489168718.png",
               "enabled": true
+            },
+            {
+              "id": "1762489204220",
+              "title": "LycheeProxy",
+              "href": "https://www.lycheeip.com",
+              "description": "The world's largest residential IP proxy provider",
+              "icon": "/assets/favicon_1762489212946.ico",
+              "enabled": true
             }
           ]
         },
