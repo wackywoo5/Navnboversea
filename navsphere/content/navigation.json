@@ -209,6 +209,14 @@
               "description": "Affiliate marketing is a simple way to earn money online, using our affiliate platform. Join a global community of publishers and advertisers.",
               "icon": "/assets/favicon_1762489556083.png",
               "enabled": true
+            },
+            {
+              "id": "1762489569459",
+              "title": "Convert2Media",
+              "href": "https://convert2media.com",
+              "description": "Convert2Media is an award-winning CPA network focused on bringing top quality traffic to advertisers and providing publishers with the best quality offers.",
+              "icon": "/assets/favicon_1762489572427.ico",
+              "enabled": true
             }
           ]
         },
