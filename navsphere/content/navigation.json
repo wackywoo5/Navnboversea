@@ -152,6 +152,14 @@
               "description": "IPFoxy offers reliable residential proxy services to enterprises worldwide, providing both static and rotating dedicated proxy to meet all your networking needs.",
               "icon": "/assets/favicon_1762489288768.ico",
               "enabled": true
+            },
+            {
+              "id": "1762489328066",
+              "title": "IPIPGO",
+              "href": "https://www.ipipgo.com",
+              "description": "IPIPGO是提供稳定高匿的ip代理服务商,拥有9000W+海外家庭IP,24小时去重,IP可用率达99.9%,提供http代理、socks5代理、动静态ip代理等国外ip代理服务器,在线网页或软件代理ip方便快捷,可免费试用.",
+              "icon": "/assets/favicon_1762489335817.ico",
+              "enabled": true
             }
           ]
         },
