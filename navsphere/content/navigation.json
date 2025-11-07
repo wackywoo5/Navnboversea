@@ -428,7 +428,16 @@
           "icon": "Target",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1762490253971",
+              "title": "skype",
+              "href": "https://www.skype.com",
+              "description": "立即开始免费的 Teams 视频通话!轻松连接、协作和通信。享受视频通话、聊天、文件共享等功能。非常适用于个人、自由职业者、独立创业者、兼职助理、教师、小型企业和社交活动。立即开始!",
+              "icon": "/assets/favicon_1762490258681.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
