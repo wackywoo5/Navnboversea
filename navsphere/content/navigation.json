@@ -492,6 +492,14 @@
               "description": "发现想要尝试的食谱、家居创意、时尚灵感及其他创意点子。",
               "icon": "/assets/favicon_1762490382055.png",
               "enabled": true
+            },
+            {
+              "id": "1762490389590",
+              "title": "Snapchat",
+              "href": "https://www.snapchat.com/",
+              "description": "在電腦桌面聊天、傳送 Snap、探索故事和試用特效鏡頭，或在手機下載應用程式！了解如何在 Snapchat 與好友培養感情和共同創作，隨時隨地都可以。",
+              "icon": "/assets/favicon_1762490392908.ico",
+              "enabled": true
             }
           ]
         }
