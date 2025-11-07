@@ -88,6 +88,14 @@
               "description": "Access 125M+ global IPs with Decodo (Smartproxy) – 2025 Value Choice Award winner for data collection. Trusted by Proxyway.",
               "icon": "/assets/favicon_1762488078361.ico",
               "enabled": true
+            },
+            {
+              "id": "1762488162409",
+              "title": "Proxyma",
+              "href": "https://proxyma.io/en",
+              "description": "Proxyma is a leading residential proxy service provider offering both Static and Rotating proxies. Get unmatched anonymity and reliability for your web scraping, data collection, and online privacy needs.",
+              "icon": "/assets/favicon_1762488166030.ico",
+              "enabled": true
             }
           ]
         },
