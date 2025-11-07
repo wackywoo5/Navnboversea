@@ -532,6 +532,14 @@
               "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
               "icon": "/assets/favicon_1762490449522.png",
               "enabled": true
+            },
+            {
+              "id": "1762490467310",
+              "title": "x.com",
+              "href": "https://x.com/",
+              "description": "全球重要的社交媒体平台，以实时信息传播和短博文为特色。",
+              "icon": "/assets/favicon_1762490469699.ico",
+              "enabled": true
             }
           ]
         }
