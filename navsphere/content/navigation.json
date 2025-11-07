@@ -57,6 +57,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "843be0f5-7f3f-4020-836a-e1333065dbd3",
+          "title": "SEO工具",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
