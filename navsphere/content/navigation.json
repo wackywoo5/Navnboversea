@@ -484,6 +484,14 @@
               "description": "在日本、台湾和东南亚地区极为流行的社交聊天应用。",
               "icon": "/assets/favicon_1762490365788.png",
               "enabled": true
+            },
+            {
+              "id": "1762490379447",
+              "title": "Pinterest",
+              "href": "https://www.pinterest.com/",
+              "description": "发现想要尝试的食谱、家居创意、时尚灵感及其他创意点子。",
+              "icon": "/assets/favicon_1762490382055.png",
+              "enabled": true
             }
           ]
         }
