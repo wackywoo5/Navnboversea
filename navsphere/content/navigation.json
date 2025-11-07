@@ -290,6 +290,14 @@
               "description": "WorldFirst helps businesses make international payments easily and securely at speed. Collect, convert, pay and manage your money when it suits you",
               "icon": "/assets/favicon_1762489814326.png",
               "enabled": true
+            },
+            {
+              "id": "1762489850158",
+              "title": "连连",
+              "href": "https://www.lianlianpay.com/",
+              "description": "服务大量跨境电商卖家的跨境支付平台",
+              "icon": "/assets/favicon_1762489854822.ico",
+              "enabled": true
             }
           ]
         },
