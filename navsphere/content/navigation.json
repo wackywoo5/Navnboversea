@@ -411,6 +411,14 @@
               "description": "Get a complete view of your customers with Mixpanel digital analytics. Track, analyze, and act on user behavior to drive acquisition, growth, and retention.",
               "icon": "/assets/favicon_1762490154729.png",
               "enabled": true
+            },
+            {
+              "id": "1762490166227",
+              "title": "Yoast",
+              "href": "https://yoast.com",
+              "description": "Yoast helps you with your website&#039;s search engine optimization, with our internationally loved software and our online SEO courses.",
+              "icon": "/assets/favicon_1762490168156.ico",
+              "enabled": true
             }
           ]
         },
