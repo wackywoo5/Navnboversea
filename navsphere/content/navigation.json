@@ -56,6 +56,14 @@
               "description": "Proxy302是最灵活多样的全球代理IP超市，支持HTTP、SOCKS5协议代理，提供免费测试，7*24小时技术支持。汇集全球优质IP资源，覆盖超过195+个国家，6500万＋IP，为企业和个人用户提供安全可靠的网络解决方案。",
               "icon": "/assets/favicon_1762487715801.ico",
               "enabled": true
+            },
+            {
+              "id": "1762487789231",
+              "title": "Xingloo",
+              "href": "https://www.xingloo.com/",
+              "description": "全球跨境网络一站式服务",
+              "icon": "/assets/favicon_1762487832855.png",
+              "enabled": true
             }
           ]
         },
