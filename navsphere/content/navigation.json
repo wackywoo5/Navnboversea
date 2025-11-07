@@ -524,6 +524,14 @@
               "description": "1 十亿会员 | 轻松管理职业生涯。打造职业人脉。掌握行业资讯，让机会主动来找您。",
               "icon": "/assets/favicon_1762490427796.png",
               "enabled": true
+            },
+            {
+              "id": "1762490446742",
+              "title": "Reddit",
+              "href": "https://www.reddit.com/",
+              "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
+              "icon": "/assets/favicon_1762490449522.png",
+              "enabled": true
             }
           ]
         }
