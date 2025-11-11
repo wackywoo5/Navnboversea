@@ -1118,6 +1118,14 @@
           "description": "高质量机器翻译。",
           "icon": "/assets/favicon_1762854626452.png",
           "enabled": true
+        },
+        {
+          "id": "1762854662103",
+          "title": "Google 翻译",
+          "href": "https://translate.google.com/",
+          "description": "Google通用翻译。",
+          "icon": "/assets/favicon_1762854663744.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
