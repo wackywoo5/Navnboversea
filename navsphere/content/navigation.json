@@ -1052,7 +1052,16 @@
       "icon": "Image",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762854417301",
+          "title": "Unsplash",
+          "href": "https://unsplash.com/",
+          "description": "免费高质量图片。",
+          "icon": "/assets/favicon_1762854419741.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
