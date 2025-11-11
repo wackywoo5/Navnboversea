@@ -1746,6 +1746,14 @@
           "description": "比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器！",
           "icon": "/assets/favicon_1762857223396.ico",
           "enabled": true
+        },
+        {
+          "id": "1762857241040",
+          "title": "Dolphin-anty",
+          "href": "https://dolphin-anty.com/",
+          "description": "Dolphin Anty是一款专门为保护用户隐私而设计的防指纹识别浏览器。它可以模拟真实的人类操作，包括鼠标点击、键盘输入等等，从而有效地欺骗网站进行指纹识别，保证用户的个人信息和数据不会被泄露。",
+          "icon": "/assets/favicon_1762857243963.png",
+          "enabled": true
         }
       ],
       "subCategories": []
