@@ -1804,6 +1804,14 @@
           "description": "PayPal 旗下，卡+PayPal 一体。",
           "icon": "/assets/favicon_1762857440155.png",
           "enabled": true
+        },
+        {
+          "id": "1762857452746",
+          "title": "PayPal Checkout Integration",
+          "href": "https://developer.paypal.com/docs/checkout/",
+          "description": "PayPal 官方收款组件。",
+          "icon": "/assets/favicon_1762857455075.png",
+          "enabled": true
         }
       ],
       "subCategories": []
