@@ -1846,6 +1846,14 @@
           "description": "Google官方聚合，生态广。",
           "icon": "/assets/favicon_1762857638298.png",
           "enabled": true
+        },
+        {
+          "id": "1762857654956",
+          "title": "AppLovin",
+          "href": "https://www.applovin.com/max/ ",
+          "description": "聚合+竞价，广泛用于移动游戏。",
+          "icon": "/assets/favicon_1762857657865.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
