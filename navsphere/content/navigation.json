@@ -1234,6 +1234,14 @@
           "description": "Google Ads/GA4 官方课程。",
           "icon": "/assets/favicon_1762855103037.png",
           "enabled": true
+        },
+        {
+          "id": "1762855129522",
+          "title": "Meta Blueprint ",
+          "href": "https://www.facebook.com/business/learn ",
+          "description": "Meta 广告官方课程与认证。",
+          "icon": "/assets/favicon_1762855136794.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
