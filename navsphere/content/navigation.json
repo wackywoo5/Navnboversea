@@ -1308,6 +1308,14 @@
           "description": "App 市场与广告情报。",
           "icon": "/assets/favicon_1762855349792.png",
           "enabled": true
+        },
+        {
+          "id": "1762855363829",
+          "title": "Apptopia",
+          "href": "https://apptopia.com/",
+          "description": "App 下载与营收估算。",
+          "icon": "/assets/favicon_1762855368469.png",
+          "enabled": true
         }
       ],
       "subCategories": []
