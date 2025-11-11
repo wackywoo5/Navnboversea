@@ -1646,6 +1646,14 @@
           "description": "多模态内容审核。",
           "icon": "/assets/favicon_1762856638652.png",
           "enabled": true
+        },
+        {
+          "id": "1762856649892",
+          "title": "阿里云内容安全",
+          "href": "https://www.alibabacloud.com/product/ai/content-moderation",
+          "description": "多语言内容审核。",
+          "icon": "/assets/favicon_1762856652672.png",
+          "enabled": true
         }
       ],
       "subCategories": []
