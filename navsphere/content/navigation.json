@@ -1838,7 +1838,16 @@
       "icon": "Code",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762857631134",
+          "title": "Admob",
+          "href": " https://admob.google.com/home/mediation/ ",
+          "description": "Google官方聚合，生态广。",
+          "icon": "/assets/favicon_1762857638298.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
