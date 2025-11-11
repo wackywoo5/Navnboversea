@@ -910,6 +910,14 @@
           "description": "Find apps and games for iPhone, iPad, Mac, and more on the App Store.",
           "icon": "/assets/favicon_1762853502959.png",
           "enabled": true
+        },
+        {
+          "id": "1762853516773",
+          "title": "Huawei AppGallery",
+          "href": " https://appgallery.huawei.com/ ",
+          "description": "",
+          "icon": "/assets/favicon_1762853520607.png",
+          "enabled": true
         }
       ],
       "subCategories": []
