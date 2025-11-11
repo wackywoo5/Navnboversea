@@ -1018,6 +1018,14 @@
           "description": "出海行业媒体与社区。",
           "icon": "/assets/favicon_1762853868684.png",
           "enabled": true
+        },
+        {
+          "id": "1762853920028",
+          "title": "V2EX",
+          "href": "https://www.v2ex.com/",
+          "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+          "icon": "/assets/favicon_1762853929219.png",
+          "enabled": true
         }
       ],
       "subCategories": []
