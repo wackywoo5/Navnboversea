@@ -1398,6 +1398,14 @@
           "description": "轻量易用的邮件营销。",
           "icon": "/assets/favicon_1762855629047.png",
           "enabled": true
+        },
+        {
+          "id": "1762855715900",
+          "title": "Twilio",
+          "href": "https://www.twilio.com/ ",
+          "description": "短信/语音/WhatsApp 全渠道 API。",
+          "icon": "/assets/favicon_1762855717981.png",
+          "enabled": true
         }
       ],
       "subCategories": []
