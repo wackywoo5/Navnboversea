@@ -1514,6 +1514,14 @@
           "description": "Google 企业级 DSP。",
           "icon": "/assets/favicon_1762856293930.png",
           "enabled": true
+        },
+        {
+          "id": "1762856390512",
+          "title": "The Trade Desk",
+          "href": "https://www.thetradedesk.com/",
+          "description": "全渠道程序化投放。",
+          "icon": "/assets/favicon_1762856402165.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
