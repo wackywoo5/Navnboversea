@@ -1110,7 +1110,16 @@
       "icon": "MessageSquare",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762854618921",
+          "title": "DeepL翻译",
+          "href": "https://www.deepl.com/",
+          "description": "高质量机器翻译。",
+          "icon": "/assets/favicon_1762854626452.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
