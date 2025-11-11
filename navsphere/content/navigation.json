@@ -1184,6 +1184,14 @@
           "description": "红人搜寻/联络/投放。",
           "icon": "/assets/favicon_1762855006310.png",
           "enabled": true
+        },
+        {
+          "id": "1762855027186",
+          "title": "Upfluence",
+          "href": "https://www.upfluence.com/ ",
+          "description": "红人数据库与管理。",
+          "icon": "/assets/favicon_1762855030229.png",
+          "enabled": true
         }
       ],
       "subCategories": []
