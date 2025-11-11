@@ -894,7 +894,16 @@
       "icon": "LayoutList",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762853463677",
+          "title": "Google Play",
+          "href": "https://play.google.com/",
+          "description": "您可以随时随地在自己的各种设备上畅享数百万最新的 Android 应用、游戏、音乐、电影、电视节目、图书、杂志等精彩内容。",
+          "icon": "/assets/favicon_1762853484179.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
