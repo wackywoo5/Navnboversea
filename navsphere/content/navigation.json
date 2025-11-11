@@ -965,7 +965,7 @@
           "id": "1762853628693",
           "title": "Plausible Analytics",
           "href": "https://plausible.io/ ",
-          "description": "Plausible is a lightweight and open-source Google Analytics alternative. Your website data is 100% yours and the privacy of your visitors is respected.",
+          "description": "轻量无 Cookie 分析。",
           "icon": "/assets/favicon_1762853630241.png",
           "enabled": true
         },
