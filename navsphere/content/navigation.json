@@ -644,6 +644,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1762850977487",
+      "title": "行业论坛",
+      "icon": "Users",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
