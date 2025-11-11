@@ -876,6 +876,14 @@
           "description": "设计驱动的响应式建站。",
           "icon": "/assets/favicon_1762853411268.png",
           "enabled": true
+        },
+        {
+          "id": "1762853433216",
+          "title": "Carrd",
+          "href": "https://carrd.co/ ",
+          "description": "A free platform for building simple, fully responsive one-page sites for pretty much anything.",
+          "icon": "/assets/favicon_1762853443548.png",
+          "enabled": true
         }
       ],
       "subCategories": []
