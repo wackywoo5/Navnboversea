@@ -636,6 +636,14 @@
           "description": "Google 出品的 Service Worker 工具库。使用 Workbox（Chrome 团队提供的 Service Worker 库）构建渐进式 Web 应用 (PWA)",
           "icon": "/assets/favicon_1762851874595.png",
           "enabled": true
+        },
+        {
+          "id": "1762851903444",
+          "title": "Lighthouse",
+          "href": "https://developer.chrome.com/docs/lighthouse/",
+          "description": " PWA 及性能、SEO 检测评分工具。",
+          "icon": "/assets/favicon_1762851905715.png",
+          "enabled": true
         }
       ],
       "subCategories": []
