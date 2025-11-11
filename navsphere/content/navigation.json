@@ -1522,6 +1522,14 @@
           "description": "全渠道程序化投放。",
           "icon": "/assets/favicon_1762856402165.ico",
           "enabled": true
+        },
+        {
+          "id": "1762856417852",
+          "title": "Amazon DSP",
+          "href": "https://advertising.amazon.com/en/dsp ",
+          "description": "基于亚马逊购物/兴趣数据。",
+          "icon": "/assets/favicon_1762856420164.png",
+          "enabled": true
         }
       ],
       "subCategories": []
