@@ -984,6 +984,14 @@
           "description": "Build better products by turning your user data into meaningful insights, using Amplitude&#x27;s digital analytics platform and experimentation tools.",
           "icon": "/assets/favicon_1762853672049.png",
           "enabled": true
+        },
+        {
+          "id": "1762853682873",
+          "title": "Hotjar",
+          "href": "https://www.hotjar.com/",
+          "description": "热图与会话回放。",
+          "icon": "/assets/favicon_1762853686789.png",
+          "enabled": true
         }
       ],
       "subCategories": []
