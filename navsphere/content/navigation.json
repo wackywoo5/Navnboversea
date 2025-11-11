@@ -1606,7 +1606,16 @@
       "icon": "Building",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762856568988",
+          "title": "Azure AI Content Safety",
+          "href": "https://azure.microsoft.com/products/ai-services/ai-content-safety",
+          "description": "文本/图像内容安全。",
+          "icon": "/assets/favicon_1762856572943.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
