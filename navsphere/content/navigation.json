@@ -1556,7 +1556,16 @@
       "icon": "Link",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762856484682",
+          "title": "Termly",
+          "href": "https://termly.io/",
+          "description": "隐私政策/条款/Cookie 合规。",
+          "icon": "/assets/favicon_1762856486972.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
