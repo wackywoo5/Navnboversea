@@ -1226,7 +1226,16 @@
       "icon": "Book",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762855099361",
+          "title": "Google Skillshop",
+          "href": "https://skillshop.exceedlms.com/",
+          "description": "Google Ads/GA4 官方课程。",
+          "icon": "/assets/favicon_1762855103037.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
