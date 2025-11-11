@@ -29,7 +29,7 @@
     {
       "id": "2",
       "title": "IP代理",
-      "icon": "Globe",
+      "icon": "BarChart",
       "description": "",
       "enabled": true,
       "items": [
