@@ -680,6 +680,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1762851174767",
+      "title": "入门学习资源（广告/出海/前端）",
+      "icon": "Book",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
