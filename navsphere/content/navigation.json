@@ -578,6 +578,14 @@
           "description": "Build iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript",
           "icon": "/assets/favicon_1762851440893.png",
           "enabled": true
+        },
+        {
+          "id": "1762851459094",
+          "title": "Apache Cordova",
+          "href": "https://cordova.apache.org/",
+          "description": "经典 WebView 容器方案，生态成熟。",
+          "icon": "/assets/favicon_1762851461494.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
