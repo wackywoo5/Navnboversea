@@ -1820,6 +1820,14 @@
           "description": "东南亚区域性支付聚合。",
           "icon": "/assets/favicon_1762857547308.png",
           "enabled": true
+        },
+        {
+          "id": "1762857565685",
+          "title": "Paddle",
+          "href": " https://www.paddle.com/",
+          "description": "税务与订阅合规托管。",
+          "icon": "/assets/favicon_1762857569894.png",
+          "enabled": true
         }
       ],
       "subCategories": []
