@@ -926,6 +926,14 @@
           "description": "",
           "icon": "/assets/favicon_1762853544880.png",
           "enabled": true
+        },
+        {
+          "id": "1762853558550",
+          "title": "Amazon appstore",
+          "href": "https://www.amazon.com/appstore",
+          "description": "",
+          "icon": "/assets/favicon_1762853562546.png",
+          "enabled": true
         }
       ],
       "subCategories": []
