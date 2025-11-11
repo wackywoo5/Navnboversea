@@ -1010,6 +1010,14 @@
           "description": "跨境电商资讯与社区。",
           "icon": "/assets/favicon_1762853784927.png",
           "enabled": true
+        },
+        {
+          "id": "1762853858251",
+          "title": "白鲸出海",
+          "href": "https://www.baijingapp.com/ ",
+          "description": "",
+          "icon": "/assets/favicon_1762853868684.png",
+          "enabled": true
         }
       ],
       "subCategories": []
