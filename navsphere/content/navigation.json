@@ -710,6 +710,14 @@
           "description": "Stop the chaos of media buying — track what works, cut what doesn",
           "icon": "/assets/favicon_1762852655221.png",
           "enabled": true
+        },
+        {
+          "id": "1762852679162",
+          "title": "HideClick",
+          "href": "https://hide.click/",
+          "description": "Hide.Click is a smart solution for traffic filtering, content protection, and landing page shielding across major ad platforms.",
+          "icon": "/assets/favicon_1762852682656.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
