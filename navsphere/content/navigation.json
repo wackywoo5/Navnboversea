@@ -678,6 +678,14 @@
           "description": "",
           "icon": "/assets/favicon_1762852229997.png",
           "enabled": true
+        },
+        {
+          "id": "1762852291327",
+          "title": "Noipfraud",
+          "href": "https://noipfraud.com/",
+          "description": "Keep the Traffic You Want, Block the Traffic You Don",
+          "icon": "/assets/favicon_1762852350468.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
