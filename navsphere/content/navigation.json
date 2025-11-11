@@ -1332,6 +1332,14 @@
           "description": "技术栈检测与公司数据。",
           "icon": "/assets/favicon_1762855395341.png",
           "enabled": true
+        },
+        {
+          "id": "1762855409280",
+          "title": "Crunchbase",
+          "href": "https://www.crunchbase.com/ ",
+          "description": "公司投融资/人员/产品情报。",
+          "icon": "/assets/favicon_1762855411804.png",
+          "enabled": true
         }
       ],
       "subCategories": []
