@@ -1084,6 +1084,14 @@
           "description": "矢量插画与模板。",
           "icon": "/assets/favicon_1762854469481.png",
           "enabled": true
+        },
+        {
+          "id": "1762854504571",
+          "title": "Envato",
+          "href": "https://elements.envato.com/",
+          "description": "订阅制全站素材。",
+          "icon": "/assets/favicon_1762854507020.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
