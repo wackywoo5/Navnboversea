@@ -1142,6 +1142,14 @@
           "description": "App/网站多语言管理。",
           "icon": "/assets/favicon_1762854747745.png",
           "enabled": true
+        },
+        {
+          "id": "1762854756610",
+          "title": "Smartcat",
+          "href": "https://www.smartcat.com/ ",
+          "description": "翻译协作与人才市场。",
+          "icon": "/assets/favicon_1762854759061.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
