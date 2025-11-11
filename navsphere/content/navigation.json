@@ -1390,6 +1390,14 @@
           "description": "事务/营销邮件发送。",
           "icon": "/assets/favicon_1762855615950.png",
           "enabled": true
+        },
+        {
+          "id": "1762855626591",
+          "title": "MailerLite",
+          "href": "https://www.mailerlite.com/ ",
+          "description": "轻量易用的邮件营销。",
+          "icon": "/assets/favicon_1762855629047.png",
+          "enabled": true
         }
       ],
       "subCategories": []
