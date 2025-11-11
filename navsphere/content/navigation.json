@@ -594,6 +594,14 @@
           "description": "Bubblewrap is a Command Line Interface (CLI) that helps developers to create a Project for an Android application that launches an existing Progressive Web App (PWAs) using a Trusted Web Activity. - GoogleChromeLabs/bubblewrap",
           "icon": "/assets/favicon_1762851488320.png",
           "enabled": true
+        },
+        {
+          "id": "1762851526849",
+          "title": "GoNative",
+          "href": "https://gonative.io/",
+          "description": "The world’s most powerful webview app development platform. With Median.co. it’s never been easier to build and maintain high-quality iOS and Android native apps powered by web content.",
+          "icon": "/assets/favicon_1762851529580.png",
+          "enabled": true
         }
       ],
       "subCategories": []
