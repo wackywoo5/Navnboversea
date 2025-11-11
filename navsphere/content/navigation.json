@@ -976,6 +976,14 @@
           "description": "Get a complete view of your customers with Mixpanel digital analytics. Track, analyze, and act on user behavior to drive acquisition, growth, and retention.",
           "icon": "/assets/favicon_1762853651845.png",
           "enabled": true
+        },
+        {
+          "id": "1762853669165",
+          "title": "Amplitude",
+          "href": "https://amplitude.com/",
+          "description": "Build better products by turning your user data into meaningful insights, using Amplitude&#x27;s digital analytics platform and experimentation tools.",
+          "icon": "/assets/favicon_1762853672049.png",
+          "enabled": true
         }
       ],
       "subCategories": []
