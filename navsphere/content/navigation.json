@@ -844,6 +844,14 @@
           "description": "可视化建站与 CMS，前端质量高。",
           "icon": "/assets/favicon_1762853260971.png",
           "enabled": true
+        },
+        {
+          "id": "1762853275323",
+          "title": "Website Builder",
+          "href": "https://www.wix.com/",
+          "description": "Get everything you need to create your website, your way. With a free easy-to-use website builder, integrated hosting, and essential business solutions.",
+          "icon": "/assets/favicon_1762853278636.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
