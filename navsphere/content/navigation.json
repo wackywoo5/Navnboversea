@@ -1704,6 +1704,14 @@
           "description": "IP 定位与时区。",
           "icon": "/assets/favicon_1762856766287.ico",
           "enabled": true
+        },
+        {
+          "id": "1762856787798",
+          "title": "Maxmind",
+          "href": "https://www.maxmind.com/en/geoip2-geoip-lite",
+          "description": "GeoLite2 数据库与查询。",
+          "icon": "/assets/favicon_1762856789611.png",
+          "enabled": true
         }
       ],
       "subCategories": []
