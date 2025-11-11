@@ -827,6 +827,14 @@
           "description": "Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.",
           "icon": "/assets/favicon_1762853120742.png",
           "enabled": true
+        },
+        {
+          "id": "1762853135928",
+          "title": "Figma",
+          "href": "https://www.figma.com/ ",
+          "description": "Figma is the leading collaborative design platform for building meaningful products. Design, prototype, and build products faster—while gathering feedback all in one place.",
+          "icon": "/assets/favicon_1762853138656.png",
+          "enabled": true
         }
       ],
       "subCategories": []
