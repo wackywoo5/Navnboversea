@@ -1324,6 +1324,14 @@
           "description": "网站技术栈识别。",
           "icon": "/assets/favicon_1762855379243.ico",
           "enabled": true
+        },
+        {
+          "id": "1762855392138",
+          "title": "Wappalyzer",
+          "href": "https://www.wappalyzer.com/",
+          "description": "技术栈检测与公司数据。",
+          "icon": "/assets/favicon_1762855395341.png",
+          "enabled": true
         }
       ],
       "subCategories": []
