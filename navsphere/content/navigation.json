@@ -952,6 +952,14 @@
           "description": "Google Analytics gives you the tools you need to better understand your customers. You can then use those business insights to take action, such as improving your website, creating tailored audience lists, and more.",
           "icon": "/assets/favicon_1762853589453.png",
           "enabled": true
+        },
+        {
+          "id": "1762853603283",
+          "title": "Matomo",
+          "href": "https://matomo.org/",
+          "description": "Don’t damage your reputation with Google Analytics. Matomo is the ethical alternative where you won’t make privacy sacrifices or compromise your site.",
+          "icon": "/assets/favicon_1762853605024.png",
+          "enabled": true
         }
       ],
       "subCategories": []
