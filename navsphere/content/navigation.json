@@ -1448,6 +1448,14 @@
           "description": "短视频信息流广告。",
           "icon": "/assets/favicon_1762855946817.ico",
           "enabled": true
+        },
+        {
+          "id": "1762855969174",
+          "title": "Twitter Ads",
+          "href": "https://ads.twitter.com/",
+          "description": "推文推广与展示。",
+          "icon": "/assets/favicon_1762855986376.png",
+          "enabled": true
         }
       ],
       "subCategories": []
