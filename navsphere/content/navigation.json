@@ -795,7 +795,16 @@
       "icon": "Video",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762853048331",
+          "title": "Canva",
+          "href": "https://www.canva.com/ ",
+          "description": "Canva是免费的在线平面设计工具。你可以使用Canva创建社交媒体帖子、演示文稿、海报、视频、Logo以及更多。",
+          "icon": "/assets/favicon_1762853050261.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
