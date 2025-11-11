@@ -702,6 +702,14 @@
           "description": "Protect your site from bots, spy services, competitors and any unwanted traffic with our powerful and flexible traffic filtering platform",
           "icon": "/assets/favicon_1762852627928.ico",
           "enabled": true
+        },
+        {
+          "id": "1762852652061",
+          "title": "Keitaro",
+          "href": "https://keitaro.io/en/",
+          "description": "Stop the chaos of media buying — track what works, cut what doesn",
+          "icon": "/assets/favicon_1762852655221.png",
+          "enabled": true
         }
       ],
       "subCategories": []
