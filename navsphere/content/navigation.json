@@ -1680,7 +1680,16 @@
       "icon": "BarChart",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762856708959",
+          "title": "IPinfo",
+          "href": "https://ipinfo.io/",
+          "description": "IP 归属/ASN/公司等。",
+          "icon": "/assets/favicon_1762856716003.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
