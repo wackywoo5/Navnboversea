@@ -686,6 +686,14 @@
           "description": "Keep the Traffic You Want, Block the Traffic You Don",
           "icon": "/assets/favicon_1762852350468.ico",
           "enabled": true
+        },
+        {
+          "id": "1762852514984",
+          "title": "Cloakerly",
+          "href": "https://cloakerly.com/",
+          "description": "",
+          "icon": "/assets/favicon_1762852518401.png",
+          "enabled": true
         }
       ],
       "subCategories": []
