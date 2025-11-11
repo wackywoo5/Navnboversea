@@ -1060,6 +1060,14 @@
           "description": "免费高质量图片。",
           "icon": "/assets/favicon_1762854419741.png",
           "enabled": true
+        },
+        {
+          "id": "1762854432334",
+          "title": "Pexels",
+          "href": "https://www.pexels.com/",
+          "description": "免费图片与视频素材。",
+          "icon": "/assets/favicon_1762854438118.png",
+          "enabled": true
         }
       ],
       "subCategories": []
