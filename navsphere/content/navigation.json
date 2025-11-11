@@ -770,6 +770,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1762851392834",
+      "title": "广告变现聚合 SDK",
+      "icon": "Code",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
