@@ -581,6 +581,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1762850460158",
+      "title": "斗篷（Cloaking）",
+      "icon": "Cloud",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
