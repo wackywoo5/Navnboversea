@@ -1200,6 +1200,14 @@
           "description": "企业级影响者营销。",
           "icon": "/assets/favicon_1762855041533.svg",
           "enabled": true
+        },
+        {
+          "id": "1762855055635",
+          "title": "Hypeauditor",
+          "href": "https://hypeauditor.com/ ",
+          "description": "红人数据与粉丝质量分析。",
+          "icon": "/assets/favicon_1762855059335.png",
+          "enabled": true
         }
       ],
       "subCategories": []
