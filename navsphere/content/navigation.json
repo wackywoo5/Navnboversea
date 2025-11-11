@@ -1208,6 +1208,14 @@
           "description": "红人数据与粉丝质量分析。",
           "icon": "/assets/favicon_1762855059335.png",
           "enabled": true
+        },
+        {
+          "id": "1762855068748",
+          "title": "Creatormarketplace",
+          "href": "https://creatormarketplace.tiktok.com/ ",
+          "description": "TikTok 官方创作者合作平台。",
+          "icon": "/assets/favicon_1762855071770.png",
+          "enabled": true
         }
       ],
       "subCategories": []
