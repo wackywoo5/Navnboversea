@@ -1366,7 +1366,16 @@
       "icon": "Bell",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762855475524",
+          "title": "Mailchimp",
+          "href": "https://mailchimp.com/",
+          "description": "邮件营销自动化。",
+          "icon": "/assets/favicon_1762855485022.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
