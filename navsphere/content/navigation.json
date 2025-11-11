@@ -1688,6 +1688,14 @@
           "description": "IP 归属/ASN/公司等。",
           "icon": "/assets/favicon_1762856716003.png",
           "enabled": true
+        },
+        {
+          "id": "1762856742189",
+          "title": "IP-API",
+          "href": "https://ip-api.com/",
+          "description": "IP 地理位置与 ISP。",
+          "icon": "/assets/favicon_1762856745567.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
