@@ -620,7 +620,16 @@
       "icon": "Laptop",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762851763079",
+          "title": "PWABuilder",
+          "href": "https://www.pwabuilder.com",
+          "description": "Publish your Progressive Web App (PWA) to app stores",
+          "icon": "/assets/favicon_1762851858796.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
