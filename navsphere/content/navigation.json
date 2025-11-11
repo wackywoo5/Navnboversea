@@ -1150,6 +1150,14 @@
           "description": "翻译协作与人才市场。",
           "icon": "/assets/favicon_1762854759061.ico",
           "enabled": true
+        },
+        {
+          "id": "1762854782806",
+          "title": "Phrase",
+          "href": "https://phrase.com/",
+          "description": "开发者友好的 i18n 平台。",
+          "icon": "/assets/favicon_1762854786320.png",
+          "enabled": true
         }
       ],
       "subCategories": []
