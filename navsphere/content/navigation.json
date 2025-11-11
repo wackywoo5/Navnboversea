@@ -1762,6 +1762,14 @@
           "description": "紫鸟超级浏览器专注解决TikTok Shop、亚马逊、沃尔玛、eBay、Shopee等跨境电商账号安全管理问题,为Amazon、Wish、eBay、独立站等跨境电商卖家提供专业安全的店铺管理方案,专业技术让店铺安全更简单。",
           "icon": "/assets/favicon_1762857276731.ico",
           "enabled": true
+        },
+        {
+          "id": "1762857333260",
+          "title": "Maskfog",
+          "href": "https://www.maskfog.com/",
+          "description": "Maskfog指纹浏览器是一款为跨境业务提供多账号营销管理专用防关联指纹浏览器,自带纯净设备,环境免费,一站式解决店铺及海外营销多账号管理难题",
+          "icon": "/assets/favicon_1762857338807.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
