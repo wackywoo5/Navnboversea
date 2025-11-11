@@ -752,6 +752,14 @@
           "description": "App 内广告与联运、支持瀑布/竞价",
           "icon": "/assets/favicon_1762852801895.png",
           "enabled": true
+        },
+        {
+          "id": "1762852824188",
+          "title": "AppLovin",
+          "href": "https://www.applovin.com/ ",
+          "description": "移动广告与增长平台",
+          "icon": "/assets/favicon_1762852826609.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
