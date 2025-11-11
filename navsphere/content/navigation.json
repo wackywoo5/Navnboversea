@@ -1192,6 +1192,14 @@
           "description": "红人数据库与管理。",
           "icon": "/assets/favicon_1762855030229.png",
           "enabled": true
+        },
+        {
+          "id": "1762855039132",
+          "title": "CreatorIQ",
+          "href": "https://www.creatoriq.com/ ",
+          "description": "企业级影响者营销。",
+          "icon": "/assets/favicon_1762855041533.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
