@@ -644,6 +644,14 @@
           "description": " PWA 及性能、SEO 检测评分工具。",
           "icon": "/assets/favicon_1762851905715.png",
           "enabled": true
+        },
+        {
+          "id": "1762851927537",
+          "title": "next-pwa",
+          "href": "https://github.com/shadowwalker/next-pwa",
+          "description": "Next.js 的 PWA 插件。",
+          "icon": "/assets/favicon_1762851932430.png",
+          "enabled": true
         }
       ],
       "subCategories": []
