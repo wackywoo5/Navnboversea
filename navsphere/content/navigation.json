@@ -1374,6 +1374,14 @@
           "description": "邮件营销自动化。",
           "icon": "/assets/favicon_1762855485022.ico",
           "enabled": true
+        },
+        {
+          "id": "1762855504500",
+          "title": "Brevo",
+          "href": "https://www.brevo.com/",
+          "description": " 邮件/短信/WhatsApp 一体化。",
+          "icon": "/assets/favicon_1762855506108.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
