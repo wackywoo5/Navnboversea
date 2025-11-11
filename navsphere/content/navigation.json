@@ -1788,6 +1788,14 @@
           "description": "Stripe 是一套支持线上付款处理和商业解决方案的 API，适用于各种规模的互联网商家。通过 AI 接受付款并更快扩展。",
           "icon": "/assets/favicon_1762857380612.svg",
           "enabled": true
+        },
+        {
+          "id": "1762857410258",
+          "title": "Adyen",
+          "href": "https://www.adyen.com/",
+          "description": "全渠道收单/风控/结算。",
+          "icon": "/assets/favicon_1762857419866.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
