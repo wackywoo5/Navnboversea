@@ -1746,6 +1746,14 @@
           "description": "Multilogin是一种专业的、高级的指纹浏览器，可以模拟不同的硬件和软件环境以及浏览器指纹来保护用户隐私并提高安全性。",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1762857094664",
+          "title": "Dolphin-anty",
+          "href": "https://dolphin-anty.com/",
+          "description": "Dolphin Anty是一款专门为保护用户隐私而设计的防指纹识别浏览器。它可以模拟真实的人类操作，包括鼠标点击、键盘输入等等，从而有效地欺骗网站进行指纹识别，保证用户的个人信息和数据不会被泄露。",
+          "icon": "/assets/favicon_1762857097687.png",
+          "enabled": true
         }
       ],
       "subCategories": []
