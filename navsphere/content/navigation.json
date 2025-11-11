@@ -602,6 +602,14 @@
           "description": "The world’s most powerful webview app development platform. With Median.co. it’s never been easier to build and maintain high-quality iOS and Android native apps powered by web content.",
           "icon": "/assets/favicon_1762851529580.png",
           "enabled": true
+        },
+        {
+          "id": "1762851565092",
+          "title": "Webviewgold",
+          "href": "https://www.webviewgold.com/",
+          "description": "现成模版快速封装 Web 为 iOS/Android App。",
+          "icon": "/assets/favicon_1762851577576.png",
+          "enabled": true
         }
       ],
       "subCategories": []
