@@ -1854,6 +1854,14 @@
           "description": "聚合+竞价，广泛用于移动游戏。",
           "icon": "/assets/favicon_1762857657865.svg",
           "enabled": true
+        },
+        {
+          "id": "1762857665868",
+          "title": "Unity Grow",
+          "href": "https://www.is.com/levelplay/ ",
+          "description": "与 Unity 深度整合的聚合与竞价。",
+          "icon": "/assets/favicon_1762857668773.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
