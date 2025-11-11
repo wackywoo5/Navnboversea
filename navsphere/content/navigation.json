@@ -1456,6 +1456,14 @@
           "description": "推文推广与展示。",
           "icon": "/assets/favicon_1762855986376.png",
           "enabled": true
+        },
+        {
+          "id": "1762856084772",
+          "title": "Snapchat Ads",
+          "href": "https://forbusiness.snapchat.com/",
+          "description": "年轻用户覆盖。",
+          "icon": "/assets/favicon_1762856093017.png",
+          "enabled": true
         }
       ],
       "subCategories": []
