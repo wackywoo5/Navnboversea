@@ -868,6 +868,14 @@
           "description": "使用内置主机、高级套餐主题和强大的工具创建您的WordPress网站。无需技术设置。今天就开始构建——可用免费套餐。",
           "icon": "/assets/favicon_1762853374315.ico",
           "enabled": true
+        },
+        {
+          "id": "1762853409120",
+          "title": "Framer",
+          "href": "https://www.framer.com/sites/ ",
+          "description": "设计驱动的响应式建站。",
+          "icon": "/assets/favicon_1762853411268.png",
+          "enabled": true
         }
       ],
       "subCategories": []
