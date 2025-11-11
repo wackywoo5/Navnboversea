@@ -1588,6 +1588,14 @@
           "description": "隐私/条款模版与托管。",
           "icon": "/assets/favicon_1762856531248.png",
           "enabled": true
+        },
+        {
+          "id": "1762856544707",
+          "title": "Privacy Policies",
+          "href": "https://www.privacypolicies.com/",
+          "description": "生成器与合规指南。",
+          "icon": "/assets/favicon_1762856546527.png",
+          "enabled": true
         }
       ],
       "subCategories": []
