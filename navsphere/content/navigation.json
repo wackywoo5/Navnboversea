@@ -1126,6 +1126,14 @@
           "description": "Google通用翻译。",
           "icon": "/assets/favicon_1762854663744.ico",
           "enabled": true
+        },
+        {
+          "id": "1762854727635",
+          "title": "Crowdin",
+          "href": "https://crowdin.com/ ",
+          "description": "本地化协作平台。",
+          "icon": "/assets/favicon_1762854731319.png",
+          "enabled": true
         }
       ],
       "subCategories": []
