@@ -1488,6 +1488,14 @@
           "description": "视觉搜索与电商。",
           "icon": "/assets/favicon_1762856155164.png",
           "enabled": true
+        },
+        {
+          "id": "1762856164507",
+          "title": "Quora Ads",
+          "href": "https://www.quora.com/business",
+          "description": "问答场景定向。",
+          "icon": "/assets/favicon_1762856165984.png",
+          "enabled": true
         }
       ],
       "subCategories": []
