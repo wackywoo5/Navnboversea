@@ -1266,6 +1266,14 @@
           "description": "Android 官方文档。",
           "icon": "/assets/favicon_1762855278029.png",
           "enabled": true
+        },
+        {
+          "id": "1762855292317",
+          "title": "Apple Developer",
+          "href": " https://developer.apple.com/",
+          "description": "iOS/macOS 官方文档与指南。",
+          "icon": "/assets/favicon_1762855293960.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
