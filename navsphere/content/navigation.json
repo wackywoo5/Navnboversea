@@ -1712,6 +1712,14 @@
           "description": "GeoLite2 数据库与查询。",
           "icon": "/assets/favicon_1762856789611.png",
           "enabled": true
+        },
+        {
+          "id": "1762856802433",
+          "title": "Abuseipdb",
+          "href": "https://www.abuseipdb.com/",
+          "description": "恶意 IP 举报与查询。",
+          "icon": "/assets/favicon_1762856803903.png",
+          "enabled": true
         }
       ],
       "subCategories": []
