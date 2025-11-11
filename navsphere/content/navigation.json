@@ -1812,6 +1812,14 @@
           "description": "PayPal 官方收款组件。",
           "icon": "/assets/favicon_1762857455075.png",
           "enabled": true
+        },
+        {
+          "id": "1762857541392",
+          "title": "Xendit",
+          "href": "https://www.xendit.co/",
+          "description": "东南亚区域性支付聚合。",
+          "icon": "/assets/favicon_1762857547308.png",
+          "enabled": true
         }
       ],
       "subCategories": []
