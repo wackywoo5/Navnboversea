@@ -1654,6 +1654,14 @@
           "description": "多语言内容审核。",
           "icon": "/assets/favicon_1762856652672.png",
           "enabled": true
+        },
+        {
+          "id": "1762856665325",
+          "title": "腾讯云内容安全",
+          "href": "https://www.tencentcloud.com/products/cms",
+          "description": "文本/图像/音视频审核。",
+          "icon": "/assets/favicon_1762856668169.png",
+          "enabled": true
         }
       ],
       "subCategories": []
