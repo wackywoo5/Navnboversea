@@ -803,6 +803,14 @@
           "description": "Canva是免费的在线平面设计工具。你可以使用Canva创建社交媒体帖子、演示文稿、海报、视频、Logo以及更多。",
           "icon": "/assets/favicon_1762853050261.png",
           "enabled": true
+        },
+        {
+          "id": "1762853061567",
+          "title": "CapCut",
+          "href": "https://www.capcut.com/",
+          "description": "CapCut 是一款由 AI 提供技術支援的全功能創意平台，可在瀏覽器、Windows、Mac、Android 和 iOS 上進行影片編輯和平面設計。",
+          "icon": "/assets/favicon_1762853069569.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
