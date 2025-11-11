@@ -768,6 +768,14 @@
           "description": "Meta 生态的移动广告网络",
           "icon": "/assets/favicon_1762852854340.svg",
           "enabled": true
+        },
+        {
+          "id": "1762852871886",
+          "title": "Amazon Associates Central",
+          "href": " https://affiliate-program.amazon.com/",
+          "description": "亚马逊联盟（电商分佣）。",
+          "icon": "/assets/favicon_1762852887405.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
