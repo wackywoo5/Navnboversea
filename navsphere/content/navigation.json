@@ -1092,6 +1092,14 @@
           "description": "订阅制全站素材。",
           "icon": "/assets/favicon_1762854507020.ico",
           "enabled": true
+        },
+        {
+          "id": "1762854529218",
+          "title": "Shutterstock",
+          "href": "https://www.shutterstock.com/ ",
+          "description": "商用图库/视频/音乐。",
+          "icon": "/assets/favicon_1762854531890.png",
+          "enabled": true
         }
       ],
       "subCategories": []
