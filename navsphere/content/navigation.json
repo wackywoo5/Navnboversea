@@ -1168,7 +1168,16 @@
       "icon": "User",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762854905700",
+          "title": "Grin",
+          "href": "https://grin.co/",
+          "description": "品牌自建创作者关系与投放。",
+          "icon": "/assets/favicon_1762854917542.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
