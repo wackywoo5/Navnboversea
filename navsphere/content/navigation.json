@@ -662,6 +662,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1762851074577",
+      "title": "翻译及本地化工具",
+      "icon": "MessageSquare",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
