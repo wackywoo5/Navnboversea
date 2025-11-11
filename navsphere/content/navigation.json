@@ -628,6 +628,14 @@
           "description": "Publish your Progressive Web App (PWA) to app stores",
           "icon": "/assets/favicon_1762851858796.png",
           "enabled": true
+        },
+        {
+          "id": "1762851872059",
+          "title": "Workbox",
+          "href": " https://developer.chrome.com/docs/workbox/ ",
+          "description": "Google 出品的 Service Worker 工具库。使用 Workbox（Chrome 团队提供的 Service Worker 库）构建渐进式 Web 应用 (PWA)",
+          "icon": "/assets/favicon_1762851874595.png",
+          "enabled": true
         }
       ],
       "subCategories": []
