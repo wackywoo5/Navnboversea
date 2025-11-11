@@ -852,6 +852,14 @@
           "description": "Get everything you need to create your website, your way. With a free easy-to-use website builder, integrated hosting, and essential business solutions.",
           "icon": "/assets/favicon_1762853278636.ico",
           "enabled": true
+        },
+        {
+          "id": "1762853290126",
+          "title": "Squarespace",
+          "href": "https://www.squarespace.com/",
+          "description": "Create a professional website with a free Squarespace trial. Our website \r\nbuilder makes it easy to start with customizable templates, AI tools, or a \r\ndomain name.",
+          "icon": "/assets/favicon_1762853292484.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
