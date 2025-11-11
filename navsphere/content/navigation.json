@@ -1440,6 +1440,14 @@
           "description": "商务管理与投放。",
           "icon": "/assets/favicon_1762855834773.ico",
           "enabled": true
+        },
+        {
+          "id": "1762855857912",
+          "title": "TikTok for Business",
+          "href": " https://ads.tiktok.com/",
+          "description": "短视频信息流广告。",
+          "icon": "/assets/favicon_1762855946817.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
