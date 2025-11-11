@@ -1382,6 +1382,14 @@
           "description": " 邮件/短信/WhatsApp 一体化。",
           "icon": "/assets/favicon_1762855506108.svg",
           "enabled": true
+        },
+        {
+          "id": "1762855606233",
+          "title": "Sendgrid",
+          "href": "https://sendgrid.com/",
+          "description": "事务/营销邮件发送。",
+          "icon": "/assets/favicon_1762855615950.png",
+          "enabled": true
         }
       ],
       "subCategories": []
