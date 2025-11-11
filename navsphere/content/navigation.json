@@ -1878,6 +1878,14 @@
           "description": "全球化聚合平台。",
           "icon": "/assets/favicon_1762857711585.ico",
           "enabled": true
+        },
+        {
+          "id": "1762857723296",
+          "title": "Chartboost",
+          "href": "https://www.chartboost.com/mediation/ ",
+          "description": "聚合与竞价管理。",
+          "icon": "/assets/favicon_1762857726298.png",
+          "enabled": true
         }
       ],
       "subCategories": []
