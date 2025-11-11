@@ -570,7 +570,16 @@
       "icon": "Network",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762851438668",
+          "title": "Capacitor",
+          "href": "https://capacitorjs.com/",
+          "description": "Build iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript",
+          "icon": "/assets/favicon_1762851440893.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
