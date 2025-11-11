@@ -1614,6 +1614,14 @@
           "description": "文本/图像内容安全。",
           "icon": "/assets/favicon_1762856572943.png",
           "enabled": true
+        },
+        {
+          "id": "1762856586738",
+          "title": "Amazon Rekognition",
+          "href": "https://aws.amazon.com/rekognition/ ",
+          "description": "图像/视频鉴黄涉政等。",
+          "icon": "/assets/favicon_1762856589424.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
