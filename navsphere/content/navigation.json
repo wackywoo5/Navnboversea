@@ -973,7 +973,7 @@
           "id": "1762853648962",
           "title": "Mixpanel",
           "href": "https://mixpanel.com/",
-          "description": "Get a complete view of your customers with Mixpanel digital analytics. Track, analyze, and act on user behavior to drive acquisition, growth, and retention.",
+          "description": "事件埋点与用户漏斗。",
           "icon": "/assets/favicon_1762853651845.png",
           "enabled": true
         },
