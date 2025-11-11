@@ -1034,6 +1034,14 @@
           "description": "独立开发者与增长经验分享。",
           "icon": "/assets/favicon_1762854248098.png",
           "enabled": true
+        },
+        {
+          "id": "1762854383081",
+          "title": "Hacker News",
+          "href": "https://news.ycombinator.com/ ",
+          "description": "技术创业社区。",
+          "icon": "/assets/favicon_1762854386145.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
