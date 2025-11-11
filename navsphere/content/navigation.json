@@ -1432,6 +1432,14 @@
           "description": "搜索/展示/视频/应用广告。",
           "icon": "/assets/favicon_1762855818698.png",
           "enabled": true
+        },
+        {
+          "id": "1762855832709",
+          "title": "Meta Ads",
+          "href": "https://www.facebook.com/business/ads",
+          "description": "商务管理与投放。",
+          "icon": "/assets/favicon_1762855834773.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
