@@ -1472,6 +1472,14 @@
           "description": "社区兴趣定向。",
           "icon": "/assets/favicon_1762856113454.png",
           "enabled": true
+        },
+        {
+          "id": "1762856130019",
+          "title": "LinkedIn Ads",
+          "href": "https://business.linkedin.com/marketing-solutions/ads",
+          "description": "B2B/人群定向。",
+          "icon": "/assets/favicon_1762856138315.png",
+          "enabled": true
         }
       ],
       "subCategories": []
