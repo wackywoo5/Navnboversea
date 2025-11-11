@@ -694,6 +694,14 @@
           "description": "",
           "icon": "/assets/favicon_1762852518401.png",
           "enabled": true
+        },
+        {
+          "id": "1762852603542",
+          "title": "CLOAK IT",
+          "href": "https://cloakit.pro/",
+          "description": "Protect your site from bots, spy services, competitors and any unwanted traffic with our powerful and flexible traffic filtering platform",
+          "icon": "/assets/favicon_1762852627928.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
