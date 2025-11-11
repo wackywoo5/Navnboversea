@@ -572,6 +572,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1762850439032",
+      "title": "PWA（渐进式 Web 应用）",
+      "icon": "Laptop",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
