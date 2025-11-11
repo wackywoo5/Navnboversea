@@ -744,6 +744,14 @@
           "description": "借助 Google AdSense，您可以利用自己的在线内容获利。",
           "icon": "/assets/favicon_1762852781236.png",
           "enabled": true
+        },
+        {
+          "id": "1762852800263",
+          "title": "Google AdMob",
+          "href": "https://admob.google.com/home/ ",
+          "description": "App 内广告与联运、支持瀑布/竞价",
+          "icon": "/assets/favicon_1762852801895.png",
+          "enabled": true
         }
       ],
       "subCategories": []
