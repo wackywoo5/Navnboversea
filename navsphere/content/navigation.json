@@ -1530,6 +1530,14 @@
           "description": "基于亚马逊购物/兴趣数据。",
           "icon": "/assets/favicon_1762856420164.png",
           "enabled": true
+        },
+        {
+          "id": "1762856439737",
+          "title": "Yahoo DSP",
+          "href": "https://www.advertising.yahooinc.com/ ",
+          "description": "O&O 资源与第三方覆盖。",
+          "icon": "/assets/favicon_1762856442895.png",
+          "enabled": true
         }
       ],
       "subCategories": []
