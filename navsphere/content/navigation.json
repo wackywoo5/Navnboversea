@@ -1242,6 +1242,14 @@
           "description": "Meta 广告官方课程与认证。",
           "icon": "/assets/favicon_1762855136794.ico",
           "enabled": true
+        },
+        {
+          "id": "1762855156128",
+          "title": "Tiktok Academy",
+          "href": "https://www.tiktok.com/business/en/academy",
+          "description": "TikTok 广告课程。",
+          "icon": "/assets/favicon_1762855159326.png",
+          "enabled": true
         }
       ],
       "subCategories": []
