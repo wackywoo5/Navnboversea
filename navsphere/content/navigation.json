@@ -1300,6 +1300,14 @@
           "description": "App 排行、收入、投放情报。",
           "icon": "/assets/favicon_1762855334747.png",
           "enabled": true
+        },
+        {
+          "id": "1762855347643",
+          "title": "Sensor Tower",
+          "href": "https://sensortower.com/ ",
+          "description": "App 市场与广告情报。",
+          "icon": "/assets/favicon_1762855349792.png",
+          "enabled": true
         }
       ],
       "subCategories": []
