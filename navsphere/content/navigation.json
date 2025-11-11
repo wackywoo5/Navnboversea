@@ -1292,6 +1292,14 @@
           "description": "网站/应用流量与行业对比。",
           "icon": "/assets/favicon_1762855321531.ico",
           "enabled": true
+        },
+        {
+          "id": "1762855332076",
+          "title": "data.ai",
+          "href": "https://www.data.ai/ ",
+          "description": "App 排行、收入、投放情报。",
+          "icon": "/assets/favicon_1762855334747.png",
+          "enabled": true
         }
       ],
       "subCategories": []
