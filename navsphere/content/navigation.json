@@ -1316,6 +1316,14 @@
           "description": "App 下载与营收估算。",
           "icon": "/assets/favicon_1762855368469.png",
           "enabled": true
+        },
+        {
+          "id": "1762855376729",
+          "title": "BuiltWith",
+          "href": "https://builtwith.com/ ",
+          "description": "网站技术栈识别。",
+          "icon": "/assets/favicon_1762855379243.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
