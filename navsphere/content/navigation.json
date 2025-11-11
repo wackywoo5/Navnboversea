@@ -1026,6 +1026,14 @@
           "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
           "icon": "/assets/favicon_1762853929219.png",
           "enabled": true
+        },
+        {
+          "id": "1762854245296",
+          "title": "Indie Hackers",
+          "href": "https://www.indiehackers.com/",
+          "description": "独立开发者与增长经验分享。",
+          "icon": "/assets/favicon_1762854248098.png",
+          "enabled": true
         }
       ],
       "subCategories": []
