@@ -1870,6 +1870,14 @@
           "description": "国内团队的聚合方案，支持多网络。",
           "icon": "/assets/favicon_1762857692722.ico",
           "enabled": true
+        },
+        {
+          "id": "1762857709097",
+          "title": "TradPlus",
+          "href": "https://www.tradplusad.com/ ",
+          "description": "全球化聚合平台。",
+          "icon": "/assets/favicon_1762857711585.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
