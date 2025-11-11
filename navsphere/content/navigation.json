@@ -1406,6 +1406,14 @@
           "description": "短信/语音/WhatsApp 全渠道 API。",
           "icon": "/assets/favicon_1762855717981.png",
           "enabled": true
+        },
+        {
+          "id": "1762855769528",
+          "title": "Vonage",
+          "href": "https://www.vonage.com/",
+          "description": "",
+          "icon": "/assets/favicon_1762855771447.png",
+          "enabled": true
         }
       ],
       "subCategories": []
