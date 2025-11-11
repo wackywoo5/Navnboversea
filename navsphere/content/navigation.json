@@ -718,6 +718,14 @@
           "description": "Hide.Click is a smart solution for traffic filtering, content protection, and landing page shielding across major ad platforms.",
           "icon": "/assets/favicon_1762852682656.ico",
           "enabled": true
+        },
+        {
+          "id": "1762852706365",
+          "title": "Zeustrack",
+          "href": "https://zeustrack.io/",
+          "description": "All-in-one solution for affiliate marketing, made to scale",
+          "icon": "/assets/favicon_1762852708163.png",
+          "enabled": true
         }
       ],
       "subCategories": []
