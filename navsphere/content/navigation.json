@@ -1796,6 +1796,14 @@
           "description": "全渠道收单/风控/结算。",
           "icon": "/assets/favicon_1762857419866.ico",
           "enabled": true
+        },
+        {
+          "id": "1762857430994",
+          "title": "Braintree",
+          "href": "https://www.braintreepayments.com/",
+          "description": "PayPal 旗下，卡+PayPal 一体。",
+          "icon": "/assets/favicon_1762857440155.png",
+          "enabled": true
         }
       ],
       "subCategories": []
