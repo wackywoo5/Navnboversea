@@ -1564,6 +1564,14 @@
           "description": "隐私政策/条款/Cookie 合规。",
           "icon": "/assets/favicon_1762856486972.svg",
           "enabled": true
+        },
+        {
+          "id": "1762856502504",
+          "title": "Iubenda",
+          "href": "https://www.iubenda.com/ ",
+          "description": " GDPR/CCPA 合规、Cookie 管理。",
+          "icon": "/assets/favicon_1762856505625.png",
+          "enabled": true
         }
       ],
       "subCategories": []
