@@ -1250,6 +1250,14 @@
           "description": "TikTok 广告课程。",
           "icon": "/assets/favicon_1762855159326.png",
           "enabled": true
+        },
+        {
+          "id": "1762855175453",
+          "title": "Web.Dev",
+          "href": "https://web.dev/ ",
+          "description": "Google Web 技术与 PWA 学习。",
+          "icon": "/assets/favicon_1762855179437.png",
+          "enabled": true
         }
       ],
       "subCategories": []
