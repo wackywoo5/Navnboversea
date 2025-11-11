@@ -1580,6 +1580,14 @@
           "description": "快速生成条款与隐私政策。",
           "icon": "/assets/favicon_1762856515114.png",
           "enabled": true
+        },
+        {
+          "id": "1762856528310",
+          "title": "Termify",
+          "href": "https://termify.io/",
+          "description": "隐私/条款模版与托管。",
+          "icon": "/assets/favicon_1762856531248.png",
+          "enabled": true
         }
       ],
       "subCategories": []
