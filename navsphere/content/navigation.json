@@ -563,6 +563,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1762850422666",
+      "title": "W2A（Web 转 App）",
+      "icon": "Network",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
