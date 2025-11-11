@@ -1740,14 +1740,6 @@
           "enabled": true
         },
         {
-          "id": "1762856946997",
-          "title": "Multilogin",
-          "href": "https://multilogin.com/zh-cn/",
-          "description": "Multilogin是一种专业的、高级的指纹浏览器，可以模拟不同的硬件和软件环境以及浏览器指纹来保护用户隐私并提高安全性。",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "1762857094664",
           "title": "Dolphin-anty",
           "href": "https://dolphin-anty.com/",
