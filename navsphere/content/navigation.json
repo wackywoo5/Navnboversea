@@ -1258,6 +1258,14 @@
           "description": "Google Web 技术与 PWA 学习。",
           "icon": "/assets/favicon_1762855179437.png",
           "enabled": true
+        },
+        {
+          "id": "1762855270066",
+          "title": "Android Developer",
+          "href": "https://developer.android.com/ ",
+          "description": "Android 官方文档。",
+          "icon": "/assets/favicon_1762855278029.png",
+          "enabled": true
         }
       ],
       "subCategories": []
