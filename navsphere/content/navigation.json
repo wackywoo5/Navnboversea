@@ -1638,6 +1638,14 @@
           "description": "文本不良言论打分。",
           "icon": "/assets/favicon_1762856626131.ico",
           "enabled": true
+        },
+        {
+          "id": "1762856635581",
+          "title": "Hive",
+          "href": "https://thehive.ai/ ",
+          "description": "多模态内容审核。",
+          "icon": "/assets/favicon_1762856638652.png",
+          "enabled": true
         }
       ],
       "subCategories": []
