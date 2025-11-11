@@ -1424,7 +1424,16 @@
       "icon": "Flag",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762855815482",
+          "title": "Google Ads",
+          "href": "https://ads.google.com/",
+          "description": "搜索/展示/视频/应用广告。",
+          "icon": "/assets/favicon_1762855818698.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
