@@ -1464,6 +1464,14 @@
           "description": "年轻用户覆盖。",
           "icon": "/assets/favicon_1762856093017.png",
           "enabled": true
+        },
+        {
+          "id": "1762856109448",
+          "title": "Reddit Ads",
+          "href": "https://ads.reddit.com/",
+          "description": "社区兴趣定向。",
+          "icon": "/assets/favicon_1762856113454.png",
+          "enabled": true
         }
       ],
       "subCategories": []
