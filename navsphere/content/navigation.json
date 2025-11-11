@@ -1572,6 +1572,14 @@
           "description": " GDPR/CCPA 合规、Cookie 管理。",
           "icon": "/assets/favicon_1762856505625.png",
           "enabled": true
+        },
+        {
+          "id": "1762856513566",
+          "title": "GetTerms",
+          "href": "https://getterms.io/",
+          "description": "快速生成条款与隐私政策。",
+          "icon": "/assets/favicon_1762856515114.png",
+          "enabled": true
         }
       ],
       "subCategories": []
