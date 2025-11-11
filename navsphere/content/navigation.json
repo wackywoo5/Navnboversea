@@ -760,6 +760,14 @@
           "description": "移动广告与增长平台",
           "icon": "/assets/favicon_1762852826609.svg",
           "enabled": true
+        },
+        {
+          "id": "1762852851835",
+          "title": "Meta Audience Network",
+          "href": "https://www.facebook.com/audiencenetwork/",
+          "description": "Meta 生态的移动广告网络",
+          "icon": "/assets/favicon_1762852854340.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
