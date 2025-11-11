@@ -960,6 +960,14 @@
           "description": "Don’t damage your reputation with Google Analytics. Matomo is the ethical alternative where you won’t make privacy sacrifices or compromise your site.",
           "icon": "/assets/favicon_1762853605024.png",
           "enabled": true
+        },
+        {
+          "id": "1762853628693",
+          "title": "Plausible Analytics",
+          "href": "https://plausible.io/ ",
+          "description": "Plausible is a lightweight and open-source Google Analytics alternative. Your website data is 100% yours and the privacy of your visitors is respected.",
+          "icon": "/assets/favicon_1762853630241.png",
+          "enabled": true
         }
       ],
       "subCategories": []
