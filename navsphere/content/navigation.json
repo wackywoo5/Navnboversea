@@ -1630,6 +1630,14 @@
           "description": "图像内容安全与识别。",
           "icon": "/assets/favicon_1762856607486.ico",
           "enabled": true
+        },
+        {
+          "id": "1762856624019",
+          "title": "Perspective API",
+          "href": "https://perspectiveapi.com/ ",
+          "description": "文本不良言论打分。",
+          "icon": "/assets/favicon_1762856626131.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
