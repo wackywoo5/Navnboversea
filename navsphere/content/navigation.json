@@ -652,6 +652,14 @@
           "description": "Next.js 的 PWA 插件。",
           "icon": "/assets/favicon_1762851932430.png",
           "enabled": true
+        },
+        {
+          "id": "1762851973083",
+          "title": "ROIBest",
+          "href": "https://www.roibest.com/",
+          "description": "ROIBest,行业领先安卓Google PWA永久包打包、投放回传、推送、转化增效解决方案,快速开户起量,PWA全球发行首选,ROIBest拥有最强PWA方案,防封户能力强,提供免下架方案,确保应用稳定在线",
+          "icon": "/assets/favicon_1762851974768.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
