@@ -1696,6 +1696,14 @@
           "description": "IP 地理位置与 ISP。",
           "icon": "/assets/favicon_1762856745567.ico",
           "enabled": true
+        },
+        {
+          "id": "1762856763839",
+          "title": "IP Geolocation",
+          "href": "https://ipgeolocation.io/",
+          "description": "IP 定位与时区。",
+          "icon": "/assets/favicon_1762856766287.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
