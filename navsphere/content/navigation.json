@@ -1480,6 +1480,14 @@
           "description": "B2B/人群定向。",
           "icon": "/assets/favicon_1762856138315.png",
           "enabled": true
+        },
+        {
+          "id": "1762856150033",
+          "title": "Pinterest Ads",
+          "href": "https://ads.pinterest.com/ ",
+          "description": "视觉搜索与电商。",
+          "icon": "/assets/favicon_1762856155164.png",
+          "enabled": true
         }
       ],
       "subCategories": []
