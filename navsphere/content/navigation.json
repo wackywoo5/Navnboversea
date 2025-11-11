@@ -968,6 +968,14 @@
           "description": "Plausible is a lightweight and open-source Google Analytics alternative. Your website data is 100% yours and the privacy of your visitors is respected.",
           "icon": "/assets/favicon_1762853630241.png",
           "enabled": true
+        },
+        {
+          "id": "1762853648962",
+          "title": "Mixpanel",
+          "href": "https://mixpanel.com/",
+          "description": "Get a complete view of your customers with Mixpanel digital analytics. Track, analyze, and act on user behavior to drive acquisition, growth, and retention.",
+          "icon": "/assets/favicon_1762853651845.png",
+          "enabled": true
         }
       ],
       "subCategories": []
