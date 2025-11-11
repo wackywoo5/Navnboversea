@@ -1506,7 +1506,16 @@
       "icon": "Brain",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762856291048",
+          "title": "Display & Video 360",
+          "href": "https://marketingplatform.google.com/about/display-video-360/ ",
+          "description": "Google 企业级 DSP。",
+          "icon": "/assets/favicon_1762856293930.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
