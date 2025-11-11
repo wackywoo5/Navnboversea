@@ -811,6 +811,14 @@
           "description": "CapCut 是一款由 AI 提供技術支援的全功能創意平台，可在瀏覽器、Windows、Mac、Android 和 iOS 上進行影片編輯和平面設計。",
           "icon": "/assets/favicon_1762853069569.ico",
           "enabled": true
+        },
+        {
+          "id": "1762853094869",
+          "title": "Adobe Express",
+          "href": "https://www.adobe.com/express/",
+          "description": "Adobe Express is an all-in-one design, photo, and video tool to make content creation easy. Quickly and easily make stunning social content, videos, logos, and more to stand out on social and beyond.",
+          "icon": "/assets/favicon_1762853097974.png",
+          "enabled": true
         }
       ],
       "subCategories": []
