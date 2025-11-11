@@ -1348,6 +1348,14 @@
           "description": "App 市场数据与竞品分析。",
           "icon": "/assets/favicon_1762855425310.ico",
           "enabled": true
+        },
+        {
+          "id": "1762855441673",
+          "title": "Appfollow",
+          "href": "https://appfollow.io/ ",
+          "description": "商店评价/榜单/ASO 工具。",
+          "icon": "/assets/favicon_1762855444664.png",
+          "enabled": true
         }
       ],
       "subCategories": []
