@@ -944,7 +944,16 @@
       "icon": "Zap",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762853586131",
+          "title": "Google Analytics",
+          "href": "https://marketingplatform.google.com/about/analytics/ ",
+          "description": "Google Analytics gives you the tools you need to better understand your customers. You can then use those business insights to take action, such as improving your website, creating tailored audience lists, and more.",
+          "icon": "/assets/favicon_1762853589453.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
