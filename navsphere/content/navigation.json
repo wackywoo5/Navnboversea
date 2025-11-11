@@ -1622,6 +1622,14 @@
           "description": "图像/视频鉴黄涉政等。",
           "icon": "/assets/favicon_1762856589424.ico",
           "enabled": true
+        },
+        {
+          "id": "1762856604698",
+          "title": "Google Cloud Vision",
+          "href": " https://cloud.google.com/vision ",
+          "description": "图像内容安全与识别。",
+          "icon": "/assets/favicon_1762856607486.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
