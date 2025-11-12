@@ -759,6 +759,56 @@
       "subCategories": []
     },
     {
+      "id": "1762851248741",
+      "title": "程序化投放工具",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762856291048",
+          "title": "Display & Video 360",
+          "href": "https://marketingplatform.google.com/about/display-video-360/ ",
+          "description": "Google 企业级 DSP。",
+          "icon": "/assets/favicon_1762856293930.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856390512",
+          "title": "The Trade Desk",
+          "href": "https://www.thetradedesk.com/",
+          "description": "全渠道程序化投放。",
+          "icon": "/assets/favicon_1762856402165.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762856417852",
+          "title": "Amazon DSP",
+          "href": "https://advertising.amazon.com/en/dsp ",
+          "description": "基于亚马逊购物/兴趣数据。",
+          "icon": "/assets/favicon_1762856420164.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856439737",
+          "title": "Yahoo DSP",
+          "href": "https://www.advertising.yahooinc.com/ ",
+          "description": "O&O 资源与第三方覆盖。",
+          "icon": "/assets/favicon_1762856442895.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856460231",
+          "title": "Criteo",
+          "href": "https://www.criteo.com/",
+          "description": "零售/电商再营销与零售媒体。",
+          "icon": "/assets/favicon_1762856462546.svg",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1762851214151",
       "title": "群发工具",
       "icon": "Bell",
@@ -927,56 +977,6 @@
           "href": "https://phrase.com/",
           "description": "开发者友好的 i18n 平台。",
           "icon": "/assets/favicon_1762854786320.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1762851248741",
-      "title": "程序化投放工具",
-      "icon": "Brain",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762856291048",
-          "title": "Display & Video 360",
-          "href": "https://marketingplatform.google.com/about/display-video-360/ ",
-          "description": "Google 企业级 DSP。",
-          "icon": "/assets/favicon_1762856293930.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856390512",
-          "title": "The Trade Desk",
-          "href": "https://www.thetradedesk.com/",
-          "description": "全渠道程序化投放。",
-          "icon": "/assets/favicon_1762856402165.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762856417852",
-          "title": "Amazon DSP",
-          "href": "https://advertising.amazon.com/en/dsp ",
-          "description": "基于亚马逊购物/兴趣数据。",
-          "icon": "/assets/favicon_1762856420164.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856439737",
-          "title": "Yahoo DSP",
-          "href": "https://www.advertising.yahooinc.com/ ",
-          "description": "O&O 资源与第三方覆盖。",
-          "icon": "/assets/favicon_1762856442895.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856460231",
-          "title": "Criteo",
-          "href": "https://www.criteo.com/",
-          "description": "零售/电商再营销与零售媒体。",
-          "icon": "/assets/favicon_1762856462546.svg",
           "enabled": true
         }
       ],
