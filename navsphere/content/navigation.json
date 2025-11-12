@@ -1413,80 +1413,6 @@
       "subCategories": []
     },
     {
-      "id": "1762851301661",
-      "title": "审核支持平台",
-      "icon": "Building",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762856568988",
-          "title": "Azure AI Content Safety",
-          "href": "https://azure.microsoft.com/products/ai-services/ai-content-safety",
-          "description": "文本/图像内容安全。",
-          "icon": "/assets/favicon_1762856572943.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856586738",
-          "title": "Amazon Rekognition",
-          "href": "https://aws.amazon.com/rekognition/ ",
-          "description": "图像/视频鉴黄涉政等。",
-          "icon": "/assets/favicon_1762856589424.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762856604698",
-          "title": "Google Cloud Vision",
-          "href": " https://cloud.google.com/vision ",
-          "description": "图像内容安全与识别。",
-          "icon": "/assets/favicon_1762856607486.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762856624019",
-          "title": "Perspective API",
-          "href": "https://perspectiveapi.com/ ",
-          "description": "文本不良言论打分。",
-          "icon": "/assets/favicon_1762856626131.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762856635581",
-          "title": "Hive",
-          "href": "https://thehive.ai/ ",
-          "description": "多模态内容审核。",
-          "icon": "/assets/favicon_1762856638652.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856649892",
-          "title": "阿里云内容安全",
-          "href": "https://www.alibabacloud.com/product/ai/content-moderation",
-          "description": "多语言内容审核。",
-          "icon": "/assets/favicon_1762856652672.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856665325",
-          "title": "腾讯云内容安全",
-          "href": "https://www.tencentcloud.com/products/cms",
-          "description": "文本/图像/音视频审核。",
-          "icon": "/assets/favicon_1762856668169.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856688137",
-          "title": "网易易盾",
-          "href": "https://dun.163.com/",
-          "description": "内容风险识别与反作弊。",
-          "icon": "/assets/favicon_1762856691721.ico",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "6",
       "title": "社交媒体",
       "icon": "Coffee",
@@ -1909,6 +1835,80 @@
           "href": "https://www.figma.com/ ",
           "description": "Figma is the leading collaborative design platform for building meaningful products. Design, prototype, and build products faster—while gathering feedback all in one place.",
           "icon": "/assets/favicon_1762853138656.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1762851301661",
+      "title": "审核支持平台",
+      "icon": "Building",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762856568988",
+          "title": "Azure AI Content Safety",
+          "href": "https://azure.microsoft.com/products/ai-services/ai-content-safety",
+          "description": "文本/图像内容安全。",
+          "icon": "/assets/favicon_1762856572943.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856586738",
+          "title": "Amazon Rekognition",
+          "href": "https://aws.amazon.com/rekognition/ ",
+          "description": "图像/视频鉴黄涉政等。",
+          "icon": "/assets/favicon_1762856589424.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762856604698",
+          "title": "Google Cloud Vision",
+          "href": " https://cloud.google.com/vision ",
+          "description": "图像内容安全与识别。",
+          "icon": "/assets/favicon_1762856607486.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762856624019",
+          "title": "Perspective API",
+          "href": "https://perspectiveapi.com/ ",
+          "description": "文本不良言论打分。",
+          "icon": "/assets/favicon_1762856626131.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762856635581",
+          "title": "Hive",
+          "href": "https://thehive.ai/ ",
+          "description": "多模态内容审核。",
+          "icon": "/assets/favicon_1762856638652.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856649892",
+          "title": "阿里云内容安全",
+          "href": "https://www.alibabacloud.com/product/ai/content-moderation",
+          "description": "多语言内容审核。",
+          "icon": "/assets/favicon_1762856652672.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856665325",
+          "title": "腾讯云内容安全",
+          "href": "https://www.tencentcloud.com/products/cms",
+          "description": "文本/图像/音视频审核。",
+          "icon": "/assets/favicon_1762856668169.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856688137",
+          "title": "网易易盾",
+          "href": "https://dun.163.com/",
+          "description": "内容风险识别与反作弊。",
+          "icon": "/assets/favicon_1762856691721.ico",
           "enabled": true
         }
       ],
