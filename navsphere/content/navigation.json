@@ -51,6 +51,160 @@
       "enabled": true
     },
     {
+      "id": "6",
+      "title": "社交媒体",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762490514958",
+          "title": "Facebook",
+          "href": "https://www.facebook.com/",
+          "description": "全球用户数量最大的社交网络平台。",
+          "icon": "/assets/favicon_1762490517109.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762490532889",
+          "title": "Instagram",
+          "href": "https://www.instagram.com/",
+          "description": "Meta旗下以图片和短视频分享为核心的社交平台。",
+          "icon": "/assets/favicon_1762490535294.png",
+          "enabled": true
+        },
+        {
+          "id": "1762490446742",
+          "title": "Reddit",
+          "href": "https://www.reddit.com/",
+          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
+          "icon": "/assets/favicon_1762490449522.png",
+          "enabled": true
+        },
+        {
+          "id": "1762490497362",
+          "title": "WhatsApp",
+          "href": "https://www.whatsapp.com/",
+          "description": "安全可靠的免费私密消息和通话",
+          "icon": "/assets/favicon_1762490501038.png",
+          "enabled": true
+        },
+        {
+          "id": "1762490415495",
+          "title": "YouTube",
+          "href": "https://www.youtube.com/",
+          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+          "icon": "/assets/favicon_1762490417761.png",
+          "enabled": true
+        },
+        {
+          "id": "1762490467310",
+          "title": "x.com",
+          "href": "https://x.com/",
+          "description": "全球重要的社交媒体平台，以实时信息传播和短博文为特色。",
+          "icon": "/assets/favicon_1762490469699.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762490253971",
+          "title": "skype",
+          "href": "https://www.skype.com",
+          "description": "立即开始免费的 Teams 视频通话!轻松连接、协作和通信。享受视频通话、聊天、文件共享等功能。非常适用于个人、自由职业者、独立创业者、兼职助理、教师、小型企业和社交活动。立即开始!",
+          "icon": "/assets/favicon_1762490258681.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762490333640",
+          "title": "KakaoTalk",
+          "href": "https://www.kakaocorp.com/",
+          "description": "韩国最主流的移动即时通讯应用",
+          "icon": "/assets/favicon_1762490337226.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762490277507",
+          "title": "AllValue",
+          "href": "https://www.allvalue.com/",
+          "description": "AllValue为海外华人商家提供AI智能营销(AllValue Link)与多渠道开店系统(AllValue Shop)！一键开通小红书/微信小程序/独立站店铺，同时通过AI托管获客推广、碰碰贴自动种草、Google/Yelp门店曝光，提升300%同城流量。适用零售、电商、门店服务、宠物、服装、家居等多行业，立即免费试用！",
+          "icon": "/assets/favicon_1762490282286.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762490362405",
+          "title": "Line",
+          "href": "https://line.me/",
+          "description": "在日本、台湾和东南亚地区极为流行的社交聊天应用。",
+          "icon": "/assets/favicon_1762490365788.png",
+          "enabled": true
+        },
+        {
+          "id": "1762490291977",
+          "title": "Kickstarter",
+          "href": "https://www.kickstarter.com/",
+          "description": "Kickstarter 致力於將創意專案變為現實。這裡是影片、音樂、藝術、劇場、遊戲、漫畫、攝影、以及更多種專案的家。",
+          "icon": "/assets/favicon_1762490294620.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762490379447",
+          "title": "Pinterest",
+          "href": "https://www.pinterest.com/",
+          "description": "发现想要尝试的食谱、家居创意、时尚灵感及其他创意点子。",
+          "icon": "/assets/favicon_1762490382055.png",
+          "enabled": true
+        },
+        {
+          "id": "1762490389590",
+          "title": "Snapchat",
+          "href": "https://www.snapchat.com/",
+          "description": "在電腦桌面聊天、傳送 Snap、探索故事和試用特效鏡頭，或在手機下載應用程式！了解如何在 Snapchat 與好友培養感情和共同創作，隨時隨地都可以。",
+          "icon": "/assets/favicon_1762490392908.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762490425517",
+          "title": "领英",
+          "href": "https://www.linkedin.com/",
+          "description": "1 十亿会员 | 轻松管理职业生涯。打造职业人脉。掌握行业资讯，让机会主动来找您。",
+          "icon": "/assets/favicon_1762490427796.png",
+          "enabled": true
+        },
+        {
+          "id": "1762490402499",
+          "title": "Tumblr",
+          "href": "https://www.tumblr.com/",
+          "description": "探索 Tumblr 上的热门话题。查看所有 GIF 动图、同人图、关于网上最受喜爱的东西的大众讨论。",
+          "icon": "/assets/favicon_1762490406148.svg",
+          "enabled": true
+        },
+        {
+          "id": "1762490304812",
+          "title": "Poshmark",
+          "href": "https://www.poshmark.com/",
+          "description": "Buy, sell, and discover fashion, home decor, beauty, and more",
+          "icon": "/assets/favicon_1762490307736.png",
+          "enabled": true
+        },
+        {
+          "id": "1762490320238",
+          "title": "Flickr",
+          "href": "https://www.flickr.com/",
+          "description": "The nicest place on the internet is here for you: inspiration, community, creativity, art, passion, and a heaping scoop of weirdness await you. Join for free.",
+          "icon": "/assets/favicon_1762490322634.png",
+          "enabled": true
+        },
+        {
+          "id": "1762490484133",
+          "title": "Telegram",
+          "href": "https://telegram.org/",
+          "description": "Fast. Secure. Powerful.",
+          "icon": "/assets/favicon_1762490487122.svg",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "IP代理",
       "icon": "BarChart",
@@ -429,160 +583,6 @@
           "href": "https://track.flexlinkspro.com/g.ashx?foid=24.215214.6226519&trid=1354474.215214&foc=16&fot=9999&fos=6",
           "description": "FlexOffers is a recognized leader in performance-based marketing. We employ a “one-roof” approach that enables us to work with over 12K advertisers across 65 networks and over 75K publisher programsSERP Snippet Preview",
           "icon": "/assets/favicon_1762489632404.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "6",
-      "title": "社交媒体",
-      "icon": "Coffee",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762490514958",
-          "title": "Facebook",
-          "href": "https://www.facebook.com/",
-          "description": "全球用户数量最大的社交网络平台。",
-          "icon": "/assets/favicon_1762490517109.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762490532889",
-          "title": "Instagram",
-          "href": "https://www.instagram.com/",
-          "description": "Meta旗下以图片和短视频分享为核心的社交平台。",
-          "icon": "/assets/favicon_1762490535294.png",
-          "enabled": true
-        },
-        {
-          "id": "1762490446742",
-          "title": "Reddit",
-          "href": "https://www.reddit.com/",
-          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
-          "icon": "/assets/favicon_1762490449522.png",
-          "enabled": true
-        },
-        {
-          "id": "1762490497362",
-          "title": "WhatsApp",
-          "href": "https://www.whatsapp.com/",
-          "description": "安全可靠的免费私密消息和通话",
-          "icon": "/assets/favicon_1762490501038.png",
-          "enabled": true
-        },
-        {
-          "id": "1762490415495",
-          "title": "YouTube",
-          "href": "https://www.youtube.com/",
-          "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
-          "icon": "/assets/favicon_1762490417761.png",
-          "enabled": true
-        },
-        {
-          "id": "1762490467310",
-          "title": "x.com",
-          "href": "https://x.com/",
-          "description": "全球重要的社交媒体平台，以实时信息传播和短博文为特色。",
-          "icon": "/assets/favicon_1762490469699.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762490253971",
-          "title": "skype",
-          "href": "https://www.skype.com",
-          "description": "立即开始免费的 Teams 视频通话!轻松连接、协作和通信。享受视频通话、聊天、文件共享等功能。非常适用于个人、自由职业者、独立创业者、兼职助理、教师、小型企业和社交活动。立即开始!",
-          "icon": "/assets/favicon_1762490258681.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762490333640",
-          "title": "KakaoTalk",
-          "href": "https://www.kakaocorp.com/",
-          "description": "韩国最主流的移动即时通讯应用",
-          "icon": "/assets/favicon_1762490337226.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762490277507",
-          "title": "AllValue",
-          "href": "https://www.allvalue.com/",
-          "description": "AllValue为海外华人商家提供AI智能营销(AllValue Link)与多渠道开店系统(AllValue Shop)！一键开通小红书/微信小程序/独立站店铺，同时通过AI托管获客推广、碰碰贴自动种草、Google/Yelp门店曝光，提升300%同城流量。适用零售、电商、门店服务、宠物、服装、家居等多行业，立即免费试用！",
-          "icon": "/assets/favicon_1762490282286.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762490362405",
-          "title": "Line",
-          "href": "https://line.me/",
-          "description": "在日本、台湾和东南亚地区极为流行的社交聊天应用。",
-          "icon": "/assets/favicon_1762490365788.png",
-          "enabled": true
-        },
-        {
-          "id": "1762490291977",
-          "title": "Kickstarter",
-          "href": "https://www.kickstarter.com/",
-          "description": "Kickstarter 致力於將創意專案變為現實。這裡是影片、音樂、藝術、劇場、遊戲、漫畫、攝影、以及更多種專案的家。",
-          "icon": "/assets/favicon_1762490294620.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762490379447",
-          "title": "Pinterest",
-          "href": "https://www.pinterest.com/",
-          "description": "发现想要尝试的食谱、家居创意、时尚灵感及其他创意点子。",
-          "icon": "/assets/favicon_1762490382055.png",
-          "enabled": true
-        },
-        {
-          "id": "1762490389590",
-          "title": "Snapchat",
-          "href": "https://www.snapchat.com/",
-          "description": "在電腦桌面聊天、傳送 Snap、探索故事和試用特效鏡頭，或在手機下載應用程式！了解如何在 Snapchat 與好友培養感情和共同創作，隨時隨地都可以。",
-          "icon": "/assets/favicon_1762490392908.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762490425517",
-          "title": "领英",
-          "href": "https://www.linkedin.com/",
-          "description": "1 十亿会员 | 轻松管理职业生涯。打造职业人脉。掌握行业资讯，让机会主动来找您。",
-          "icon": "/assets/favicon_1762490427796.png",
-          "enabled": true
-        },
-        {
-          "id": "1762490402499",
-          "title": "Tumblr",
-          "href": "https://www.tumblr.com/",
-          "description": "探索 Tumblr 上的热门话题。查看所有 GIF 动图、同人图、关于网上最受喜爱的东西的大众讨论。",
-          "icon": "/assets/favicon_1762490406148.svg",
-          "enabled": true
-        },
-        {
-          "id": "1762490304812",
-          "title": "Poshmark",
-          "href": "https://www.poshmark.com/",
-          "description": "Buy, sell, and discover fashion, home decor, beauty, and more",
-          "icon": "/assets/favicon_1762490307736.png",
-          "enabled": true
-        },
-        {
-          "id": "1762490320238",
-          "title": "Flickr",
-          "href": "https://www.flickr.com/",
-          "description": "The nicest place on the internet is here for you: inspiration, community, creativity, art, passion, and a heaping scoop of weirdness await you. Join for free.",
-          "icon": "/assets/favicon_1762490322634.png",
-          "enabled": true
-        },
-        {
-          "id": "1762490484133",
-          "title": "Telegram",
-          "href": "https://telegram.org/",
-          "description": "Fast. Secure. Powerful.",
-          "icon": "/assets/favicon_1762490487122.svg",
           "enabled": true
         }
       ],
