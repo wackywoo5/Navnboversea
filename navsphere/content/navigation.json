@@ -651,56 +651,6 @@
       "subCategories": []
     },
     {
-      "id": "1762850938728",
-      "title": "应用市场",
-      "icon": "LayoutList",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762853463677",
-          "title": "Google Play",
-          "href": "https://play.google.com/",
-          "description": "您可以随时随地在自己的各种设备上畅享数百万最新的 Android 应用、游戏、音乐、电影、电视节目、图书、杂志等精彩内容。",
-          "icon": "/assets/favicon_1762853484179.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762853501156",
-          "title": "App Store",
-          "href": "https://apps.apple.com/ ",
-          "description": "Find apps and games for iPhone, iPad, Mac, and more on the App Store.",
-          "icon": "/assets/favicon_1762853502959.png",
-          "enabled": true
-        },
-        {
-          "id": "1762853516773",
-          "title": "Huawei AppGallery",
-          "href": " https://appgallery.huawei.com/ ",
-          "description": "",
-          "icon": "/assets/favicon_1762853520607.png",
-          "enabled": true
-        },
-        {
-          "id": "1762853541789",
-          "title": "Galaxystore",
-          "href": "https://galaxystore.samsung.com/",
-          "description": "",
-          "icon": "/assets/favicon_1762853544880.png",
-          "enabled": true
-        },
-        {
-          "id": "1762853558550",
-          "title": "Amazon appstore",
-          "href": "https://www.amazon.com/appstore",
-          "description": "",
-          "icon": "/assets/favicon_1762853562546.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1762850962200",
       "title": "数据分析",
       "icon": "Zap",
@@ -977,6 +927,56 @@
           "href": "https://phrase.com/",
           "description": "开发者友好的 i18n 平台。",
           "icon": "/assets/favicon_1762854786320.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1762850938728",
+      "title": "应用市场",
+      "icon": "LayoutList",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762853463677",
+          "title": "Google Play",
+          "href": "https://play.google.com/",
+          "description": "您可以随时随地在自己的各种设备上畅享数百万最新的 Android 应用、游戏、音乐、电影、电视节目、图书、杂志等精彩内容。",
+          "icon": "/assets/favicon_1762853484179.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762853501156",
+          "title": "App Store",
+          "href": "https://apps.apple.com/ ",
+          "description": "Find apps and games for iPhone, iPad, Mac, and more on the App Store.",
+          "icon": "/assets/favicon_1762853502959.png",
+          "enabled": true
+        },
+        {
+          "id": "1762853516773",
+          "title": "Huawei AppGallery",
+          "href": " https://appgallery.huawei.com/ ",
+          "description": "",
+          "icon": "/assets/favicon_1762853520607.png",
+          "enabled": true
+        },
+        {
+          "id": "1762853541789",
+          "title": "Galaxystore",
+          "href": "https://galaxystore.samsung.com/",
+          "description": "",
+          "icon": "/assets/favicon_1762853544880.png",
+          "enabled": true
+        },
+        {
+          "id": "1762853558550",
+          "title": "Amazon appstore",
+          "href": "https://www.amazon.com/appstore",
+          "description": "",
+          "icon": "/assets/favicon_1762853562546.png",
           "enabled": true
         }
       ],
