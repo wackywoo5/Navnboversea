@@ -1389,56 +1389,6 @@
       "subCategories": []
     },
     {
-      "id": "1762851270772",
-      "title": "隐私协议生成平台",
-      "icon": "Link",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762856484682",
-          "title": "Termly",
-          "href": "https://termly.io/",
-          "description": "隐私政策/条款/Cookie 合规。",
-          "icon": "/assets/favicon_1762856486972.svg",
-          "enabled": true
-        },
-        {
-          "id": "1762856502504",
-          "title": "Iubenda",
-          "href": "https://www.iubenda.com/ ",
-          "description": " GDPR/CCPA 合规、Cookie 管理。",
-          "icon": "/assets/favicon_1762856505625.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856513566",
-          "title": "GetTerms",
-          "href": "https://getterms.io/",
-          "description": "快速生成条款与隐私政策。",
-          "icon": "/assets/favicon_1762856515114.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856528310",
-          "title": "Termify",
-          "href": "https://termify.io/",
-          "description": "隐私/条款模版与托管。",
-          "icon": "/assets/favicon_1762856531248.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856544707",
-          "title": "Privacy Policies",
-          "href": "https://www.privacypolicies.com/",
-          "description": "生成器与合规指南。",
-          "icon": "/assets/favicon_1762856546527.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1762851196042",
       "title": "应用和网站数据查询",
       "icon": "FolderOpen",
@@ -1801,6 +1751,56 @@
           "href": "https://carrd.co/ ",
           "description": "A free platform for building simple, fully responsive one-page sites for pretty much anything.",
           "icon": "/assets/favicon_1762853443548.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1762851270772",
+      "title": "隐私协议生成平台",
+      "icon": "Link",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762856484682",
+          "title": "Termly",
+          "href": "https://termly.io/",
+          "description": "隐私政策/条款/Cookie 合规。",
+          "icon": "/assets/favicon_1762856486972.svg",
+          "enabled": true
+        },
+        {
+          "id": "1762856502504",
+          "title": "Iubenda",
+          "href": "https://www.iubenda.com/ ",
+          "description": " GDPR/CCPA 合规、Cookie 管理。",
+          "icon": "/assets/favicon_1762856505625.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856513566",
+          "title": "GetTerms",
+          "href": "https://getterms.io/",
+          "description": "快速生成条款与隐私政策。",
+          "icon": "/assets/favicon_1762856515114.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856528310",
+          "title": "Termify",
+          "href": "https://termify.io/",
+          "description": "隐私/条款模版与托管。",
+          "icon": "/assets/favicon_1762856531248.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856544707",
+          "title": "Privacy Policies",
+          "href": "https://www.privacypolicies.com/",
+          "description": "生成器与合规指南。",
+          "icon": "/assets/favicon_1762856546527.png",
           "enabled": true
         }
       ],
