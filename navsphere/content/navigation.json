@@ -535,6 +535,56 @@
       "subCategories": []
     },
     {
+      "id": "1762850488398",
+      "title": "变现渠道",
+      "icon": "Box",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762852779006",
+          "title": "Google AdSense",
+          "href": "https://www.google.com/adsense",
+          "description": "网站广告变现平台",
+          "icon": "/assets/favicon_1762852781236.png",
+          "enabled": true
+        },
+        {
+          "id": "1762852800263",
+          "title": "Google AdMob",
+          "href": "https://admob.google.com/home/ ",
+          "description": "App 内广告与联运、支持瀑布/竞价",
+          "icon": "/assets/favicon_1762852801895.png",
+          "enabled": true
+        },
+        {
+          "id": "1762852824188",
+          "title": "AppLovin",
+          "href": "https://www.applovin.com/ ",
+          "description": "移动广告与增长平台",
+          "icon": "/assets/favicon_1762852826609.svg",
+          "enabled": true
+        },
+        {
+          "id": "1762852851835",
+          "title": "Meta Audience Network",
+          "href": "https://www.facebook.com/audiencenetwork/",
+          "description": "Meta 生态的移动广告网络",
+          "icon": "/assets/favicon_1762852854340.svg",
+          "enabled": true
+        },
+        {
+          "id": "1762852871886",
+          "title": "Amazon Associates Central",
+          "href": " https://affiliate-program.amazon.com/",
+          "description": "亚马逊联盟（电商分佣）。",
+          "icon": "/assets/favicon_1762852887405.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1762850460158",
       "title": "斗篷（Cloaking）",
       "icon": "Cloud",
@@ -595,56 +645,6 @@
           "href": "https://zeustrack.io/",
           "description": "All-in-one solution for affiliate marketing, made to scale",
           "icon": "/assets/favicon_1762852708163.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1762850488398",
-      "title": "变现渠道",
-      "icon": "Box",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762852779006",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense",
-          "description": "网站广告变现平台",
-          "icon": "/assets/favicon_1762852781236.png",
-          "enabled": true
-        },
-        {
-          "id": "1762852800263",
-          "title": "Google AdMob",
-          "href": "https://admob.google.com/home/ ",
-          "description": "App 内广告与联运、支持瀑布/竞价",
-          "icon": "/assets/favicon_1762852801895.png",
-          "enabled": true
-        },
-        {
-          "id": "1762852824188",
-          "title": "AppLovin",
-          "href": "https://www.applovin.com/ ",
-          "description": "移动广告与增长平台",
-          "icon": "/assets/favicon_1762852826609.svg",
-          "enabled": true
-        },
-        {
-          "id": "1762852851835",
-          "title": "Meta Audience Network",
-          "href": "https://www.facebook.com/audiencenetwork/",
-          "description": "Meta 生态的移动广告网络",
-          "icon": "/assets/favicon_1762852854340.svg",
-          "enabled": true
-        },
-        {
-          "id": "1762852871886",
-          "title": "Amazon Associates Central",
-          "href": " https://affiliate-program.amazon.com/",
-          "description": "亚马逊联盟（电商分佣）。",
-          "icon": "/assets/favicon_1762852887405.ico",
           "enabled": true
         }
       ],
