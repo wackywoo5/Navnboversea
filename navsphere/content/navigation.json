@@ -701,64 +701,6 @@
       "subCategories": []
     },
     {
-      "id": "1762851375807",
-      "title": "支付聚合 SDK",
-      "icon": "Code",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762857377867",
-          "title": "Stripe",
-          "href": "https://stripe.com/ ",
-          "description": "Stripe 是一套支持线上付款处理和商业解决方案的 API，适用于各种规模的互联网商家。通过 AI 接受付款并更快扩展。",
-          "icon": "/assets/favicon_1762857380612.svg",
-          "enabled": true
-        },
-        {
-          "id": "1762857410258",
-          "title": "Adyen",
-          "href": "https://www.adyen.com/",
-          "description": "全渠道收单/风控/结算。",
-          "icon": "/assets/favicon_1762857419866.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762857430994",
-          "title": "Braintree",
-          "href": "https://www.braintreepayments.com/",
-          "description": "PayPal 旗下，卡+PayPal 一体。",
-          "icon": "/assets/favicon_1762857440155.png",
-          "enabled": true
-        },
-        {
-          "id": "1762857452746",
-          "title": "PayPal Checkout Integration",
-          "href": "https://developer.paypal.com/docs/checkout/",
-          "description": "PayPal 官方收款组件。",
-          "icon": "/assets/favicon_1762857455075.png",
-          "enabled": true
-        },
-        {
-          "id": "1762857541392",
-          "title": "Xendit",
-          "href": "https://www.xendit.co/",
-          "description": "东南亚区域性支付聚合。",
-          "icon": "/assets/favicon_1762857547308.png",
-          "enabled": true
-        },
-        {
-          "id": "1762857565685",
-          "title": "Paddle",
-          "href": " https://www.paddle.com/",
-          "description": "税务与订阅合规托管。",
-          "icon": "/assets/favicon_1762857569894.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1762850962200",
       "title": "数据分析",
       "icon": "Zap",
@@ -811,6 +753,64 @@
           "href": "https://www.hotjar.com/",
           "description": "热图与会话回放。",
           "icon": "/assets/favicon_1762853686789.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1762851392834",
+      "title": "广告变现聚合 SDK",
+      "icon": "Code",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762857631134",
+          "title": "Admob",
+          "href": " https://admob.google.com/home/mediation/ ",
+          "description": "Google官方聚合，生态广。",
+          "icon": "/assets/favicon_1762857638298.png",
+          "enabled": true
+        },
+        {
+          "id": "1762857654956",
+          "title": "AppLovin",
+          "href": "https://www.applovin.com/max/ ",
+          "description": "聚合+竞价，广泛用于移动游戏。",
+          "icon": "/assets/favicon_1762857657865.svg",
+          "enabled": true
+        },
+        {
+          "id": "1762857665868",
+          "title": "ironSource LevelPlay",
+          "href": "https://www.is.com/levelplay/ ",
+          "description": "与 Unity 深度整合的聚合与竞价。",
+          "icon": "/assets/favicon_1762857668773.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762857689935",
+          "title": "TopOn",
+          "href": "https://www.toponad.com/ ",
+          "description": "国内团队的聚合方案，支持多网络。",
+          "icon": "/assets/favicon_1762857692722.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762857709097",
+          "title": "TradPlus",
+          "href": "https://www.tradplusad.com/ ",
+          "description": "全球化聚合平台。",
+          "icon": "/assets/favicon_1762857711585.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762857723296",
+          "title": "Chartboost",
+          "href": "https://www.chartboost.com/mediation/ ",
+          "description": "聚合与竞价管理。",
+          "icon": "/assets/favicon_1762857726298.png",
           "enabled": true
         }
       ],
@@ -1165,58 +1165,58 @@
       "subCategories": []
     },
     {
-      "id": "1762851392834",
-      "title": "广告变现聚合 SDK",
+      "id": "1762851375807",
+      "title": "支付聚合 SDK",
       "icon": "Code",
       "description": "",
       "enabled": true,
       "items": [
         {
-          "id": "1762857631134",
-          "title": "Admob",
-          "href": " https://admob.google.com/home/mediation/ ",
-          "description": "Google官方聚合，生态广。",
-          "icon": "/assets/favicon_1762857638298.png",
+          "id": "1762857377867",
+          "title": "Stripe",
+          "href": "https://stripe.com/ ",
+          "description": "Stripe 是一套支持线上付款处理和商业解决方案的 API，适用于各种规模的互联网商家。通过 AI 接受付款并更快扩展。",
+          "icon": "/assets/favicon_1762857380612.svg",
           "enabled": true
         },
         {
-          "id": "1762857654956",
-          "title": "AppLovin",
-          "href": "https://www.applovin.com/max/ ",
-          "description": "聚合+竞价，广泛用于移动游戏。",
-          "icon": "/assets/favicon_1762857657865.svg",
+          "id": "1762857410258",
+          "title": "Adyen",
+          "href": "https://www.adyen.com/",
+          "description": "全渠道收单/风控/结算。",
+          "icon": "/assets/favicon_1762857419866.ico",
           "enabled": true
         },
         {
-          "id": "1762857665868",
-          "title": "ironSource LevelPlay",
-          "href": "https://www.is.com/levelplay/ ",
-          "description": "与 Unity 深度整合的聚合与竞价。",
-          "icon": "/assets/favicon_1762857668773.ico",
+          "id": "1762857430994",
+          "title": "Braintree",
+          "href": "https://www.braintreepayments.com/",
+          "description": "PayPal 旗下，卡+PayPal 一体。",
+          "icon": "/assets/favicon_1762857440155.png",
           "enabled": true
         },
         {
-          "id": "1762857689935",
-          "title": "TopOn",
-          "href": "https://www.toponad.com/ ",
-          "description": "国内团队的聚合方案，支持多网络。",
-          "icon": "/assets/favicon_1762857692722.ico",
+          "id": "1762857452746",
+          "title": "PayPal Checkout Integration",
+          "href": "https://developer.paypal.com/docs/checkout/",
+          "description": "PayPal 官方收款组件。",
+          "icon": "/assets/favicon_1762857455075.png",
           "enabled": true
         },
         {
-          "id": "1762857709097",
-          "title": "TradPlus",
-          "href": "https://www.tradplusad.com/ ",
-          "description": "全球化聚合平台。",
-          "icon": "/assets/favicon_1762857711585.ico",
+          "id": "1762857541392",
+          "title": "Xendit",
+          "href": "https://www.xendit.co/",
+          "description": "东南亚区域性支付聚合。",
+          "icon": "/assets/favicon_1762857547308.png",
           "enabled": true
         },
         {
-          "id": "1762857723296",
-          "title": "Chartboost",
-          "href": "https://www.chartboost.com/mediation/ ",
-          "description": "聚合与竞价管理。",
-          "icon": "/assets/favicon_1762857726298.png",
+          "id": "1762857565685",
+          "title": "Paddle",
+          "href": " https://www.paddle.com/",
+          "description": "税务与订阅合规托管。",
+          "icon": "/assets/favicon_1762857569894.png",
           "enabled": true
         }
       ],
