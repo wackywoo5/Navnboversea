@@ -759,6 +759,88 @@
       "subCategories": []
     },
     {
+      "id": "1762851196042",
+      "title": "应用和网站数据查询",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762855318506",
+          "title": "Similarweb",
+          "href": "https://www.similarweb.com/",
+          "description": "网站/应用流量与行业对比。",
+          "icon": "/assets/favicon_1762855321531.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762855332076",
+          "title": "data.ai",
+          "href": "https://www.data.ai/ ",
+          "description": "App 排行、收入、投放情报。",
+          "icon": "/assets/favicon_1762855334747.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855347643",
+          "title": "Sensor Tower",
+          "href": "https://sensortower.com/ ",
+          "description": "App 市场与广告情报。",
+          "icon": "/assets/favicon_1762855349792.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855363829",
+          "title": "Apptopia",
+          "href": "https://apptopia.com/",
+          "description": "App 下载与营收估算。",
+          "icon": "/assets/favicon_1762855368469.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855376729",
+          "title": "BuiltWith",
+          "href": "https://builtwith.com/ ",
+          "description": "网站技术栈识别。",
+          "icon": "/assets/favicon_1762855379243.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762855392138",
+          "title": "Wappalyzer",
+          "href": "https://www.wappalyzer.com/",
+          "description": "技术栈检测与公司数据。",
+          "icon": "/assets/favicon_1762855395341.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855409280",
+          "title": "Crunchbase",
+          "href": "https://www.crunchbase.com/ ",
+          "description": "公司投融资/人员/产品情报。",
+          "icon": "/assets/favicon_1762855411804.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855423245",
+          "title": "AppMagic",
+          "href": "https://appmagic.rocks/",
+          "description": "App 市场数据与竞品分析。",
+          "icon": "/assets/favicon_1762855425310.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762855441673",
+          "title": "Appfollow",
+          "href": "https://appfollow.io/ ",
+          "description": "商店评价/榜单/ASO 工具。",
+          "icon": "/assets/favicon_1762855444664.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1762851248741",
       "title": "程序化投放工具",
       "icon": "Brain",
@@ -1325,88 +1407,6 @@
           "href": "https://www.quora.com/business",
           "description": "问答场景定向。",
           "icon": "/assets/favicon_1762856165984.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1762851196042",
-      "title": "应用和网站数据查询",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762855318506",
-          "title": "Similarweb",
-          "href": "https://www.similarweb.com/",
-          "description": "网站/应用流量与行业对比。",
-          "icon": "/assets/favicon_1762855321531.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762855332076",
-          "title": "data.ai",
-          "href": "https://www.data.ai/ ",
-          "description": "App 排行、收入、投放情报。",
-          "icon": "/assets/favicon_1762855334747.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855347643",
-          "title": "Sensor Tower",
-          "href": "https://sensortower.com/ ",
-          "description": "App 市场与广告情报。",
-          "icon": "/assets/favicon_1762855349792.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855363829",
-          "title": "Apptopia",
-          "href": "https://apptopia.com/",
-          "description": "App 下载与营收估算。",
-          "icon": "/assets/favicon_1762855368469.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855376729",
-          "title": "BuiltWith",
-          "href": "https://builtwith.com/ ",
-          "description": "网站技术栈识别。",
-          "icon": "/assets/favicon_1762855379243.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762855392138",
-          "title": "Wappalyzer",
-          "href": "https://www.wappalyzer.com/",
-          "description": "技术栈检测与公司数据。",
-          "icon": "/assets/favicon_1762855395341.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855409280",
-          "title": "Crunchbase",
-          "href": "https://www.crunchbase.com/ ",
-          "description": "公司投融资/人员/产品情报。",
-          "icon": "/assets/favicon_1762855411804.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855423245",
-          "title": "AppMagic",
-          "href": "https://appmagic.rocks/",
-          "description": "App 市场数据与竞品分析。",
-          "icon": "/assets/favicon_1762855425310.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762855441673",
-          "title": "Appfollow",
-          "href": "https://appfollow.io/ ",
-          "description": "商店评价/榜单/ASO 工具。",
-          "icon": "/assets/favicon_1762855444664.png",
           "enabled": true
         }
       ],
