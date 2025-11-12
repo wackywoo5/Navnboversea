@@ -777,6 +777,64 @@
       "subCategories": []
     },
     {
+      "id": "1762851214151",
+      "title": "群发工具",
+      "icon": "Bell",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762855475524",
+          "title": "Mailchimp",
+          "href": "https://mailchimp.com/",
+          "description": "邮件营销自动化。",
+          "icon": "/assets/favicon_1762855485022.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762855504500",
+          "title": "Brevo",
+          "href": "https://www.brevo.com/",
+          "description": " 邮件/短信/WhatsApp 一体化。",
+          "icon": "/assets/favicon_1762855506108.svg",
+          "enabled": true
+        },
+        {
+          "id": "1762855606233",
+          "title": "Sendgrid",
+          "href": "https://sendgrid.com/",
+          "description": "事务/营销邮件发送。",
+          "icon": "/assets/favicon_1762855615950.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855626591",
+          "title": "MailerLite",
+          "href": "https://www.mailerlite.com/ ",
+          "description": "轻量易用的邮件营销。",
+          "icon": "/assets/favicon_1762855629047.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855715900",
+          "title": "Twilio",
+          "href": "https://www.twilio.com/ ",
+          "description": "短信/语音/WhatsApp 全渠道 API。",
+          "icon": "/assets/favicon_1762855717981.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855769528",
+          "title": "Vonage",
+          "href": "https://www.vonage.com/",
+          "description": "",
+          "icon": "/assets/favicon_1762855771447.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "3",
       "title": "SEO工具",
       "icon": "Globe",
@@ -1051,64 +1109,6 @@
           "href": "https://www.amazon.com/appstore",
           "description": "",
           "icon": "/assets/favicon_1762853562546.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1762851214151",
-      "title": "群发工具",
-      "icon": "Bell",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762855475524",
-          "title": "Mailchimp",
-          "href": "https://mailchimp.com/",
-          "description": "邮件营销自动化。",
-          "icon": "/assets/favicon_1762855485022.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762855504500",
-          "title": "Brevo",
-          "href": "https://www.brevo.com/",
-          "description": " 邮件/短信/WhatsApp 一体化。",
-          "icon": "/assets/favicon_1762855506108.svg",
-          "enabled": true
-        },
-        {
-          "id": "1762855606233",
-          "title": "Sendgrid",
-          "href": "https://sendgrid.com/",
-          "description": "事务/营销邮件发送。",
-          "icon": "/assets/favicon_1762855615950.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855626591",
-          "title": "MailerLite",
-          "href": "https://www.mailerlite.com/ ",
-          "description": "轻量易用的邮件营销。",
-          "icon": "/assets/favicon_1762855629047.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855715900",
-          "title": "Twilio",
-          "href": "https://www.twilio.com/ ",
-          "description": "短信/语音/WhatsApp 全渠道 API。",
-          "icon": "/assets/favicon_1762855717981.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855769528",
-          "title": "Vonage",
-          "href": "https://www.vonage.com/",
-          "description": "",
-          "icon": "/assets/favicon_1762855771447.png",
           "enabled": true
         }
       ],
