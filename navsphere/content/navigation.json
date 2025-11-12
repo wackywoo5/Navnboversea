@@ -247,6 +247,56 @@
       "subCategories": []
     },
     {
+      "id": "1762851327462",
+      "title": "IP 查询",
+      "icon": "BarChart",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762856708959",
+          "title": "IPinfo",
+          "href": "https://ipinfo.io/",
+          "description": "IP 归属/ASN/公司等。",
+          "icon": "/assets/favicon_1762856716003.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856742189",
+          "title": "IP-API",
+          "href": "https://ip-api.com/",
+          "description": "IP 地理位置与 ISP。",
+          "icon": "/assets/favicon_1762856745567.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762856763839",
+          "title": "IP Geolocation",
+          "href": "https://ipgeolocation.io/",
+          "description": "IP 定位与时区。",
+          "icon": "/assets/favicon_1762856766287.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762856787798",
+          "title": "Maxmind",
+          "href": "https://www.maxmind.com/en/geoip2-geoip-lite",
+          "description": "GeoLite2 数据库与查询。",
+          "icon": "/assets/favicon_1762856789611.png",
+          "enabled": true
+        },
+        {
+          "id": "1762856802433",
+          "title": "Abuseipdb",
+          "href": "https://www.abuseipdb.com/",
+          "description": "恶意 IP 举报与查询。",
+          "icon": "/assets/favicon_1762856803903.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "3",
       "title": "SEO工具",
       "icon": "Globe",
@@ -977,56 +1027,6 @@
           "href": "https://www.amazon.com/appstore",
           "description": "",
           "icon": "/assets/favicon_1762853562546.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1762851327462",
-      "title": "IP 查询",
-      "icon": "BarChart",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762856708959",
-          "title": "IPinfo",
-          "href": "https://ipinfo.io/",
-          "description": "IP 归属/ASN/公司等。",
-          "icon": "/assets/favicon_1762856716003.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856742189",
-          "title": "IP-API",
-          "href": "https://ip-api.com/",
-          "description": "IP 地理位置与 ISP。",
-          "icon": "/assets/favicon_1762856745567.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762856763839",
-          "title": "IP Geolocation",
-          "href": "https://ipgeolocation.io/",
-          "description": "IP 定位与时区。",
-          "icon": "/assets/favicon_1762856766287.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762856787798",
-          "title": "Maxmind",
-          "href": "https://www.maxmind.com/en/geoip2-geoip-lite",
-          "description": "GeoLite2 数据库与查询。",
-          "icon": "/assets/favicon_1762856789611.png",
-          "enabled": true
-        },
-        {
-          "id": "1762856802433",
-          "title": "Abuseipdb",
-          "href": "https://www.abuseipdb.com/",
-          "description": "恶意 IP 举报与查询。",
-          "icon": "/assets/favicon_1762856803903.png",
           "enabled": true
         }
       ],
