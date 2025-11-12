@@ -51,6 +51,64 @@
       "enabled": true
     },
     {
+      "id": "1762851174767",
+      "title": "入门学习资源（广告/出海/前端）",
+      "icon": "Book",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762855099361",
+          "title": "Google Skillshop",
+          "href": "https://skillshop.exceedlms.com/",
+          "description": "Google Ads/GA4 官方课程。",
+          "icon": "/assets/favicon_1762855103037.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855129522",
+          "title": "Meta Blueprint ",
+          "href": "https://www.facebook.com/business/learn ",
+          "description": "Meta 广告官方课程与认证。",
+          "icon": "/assets/favicon_1762855136794.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762855156128",
+          "title": "Tiktok Academy",
+          "href": "https://www.tiktok.com/business/en/academy",
+          "description": "TikTok 广告课程。",
+          "icon": "/assets/favicon_1762855159326.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855175453",
+          "title": "Web.Dev",
+          "href": "https://web.dev/ ",
+          "description": "Google Web 技术与 PWA 学习。",
+          "icon": "/assets/favicon_1762855179437.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855270066",
+          "title": "Android Developer",
+          "href": "https://developer.android.com/ ",
+          "description": "Android 官方文档。",
+          "icon": "/assets/favicon_1762855278029.png",
+          "enabled": true
+        },
+        {
+          "id": "1762855292317",
+          "title": "Apple Developer",
+          "href": " https://developer.apple.com/",
+          "description": "iOS/macOS 官方文档与指南。",
+          "icon": "/assets/favicon_1762855293960.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "IP代理",
       "icon": "BarChart",
@@ -869,64 +927,6 @@
           "href": "https://phrase.com/",
           "description": "开发者友好的 i18n 平台。",
           "icon": "/assets/favicon_1762854786320.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1762851174767",
-      "title": "入门学习资源（广告/出海/前端）",
-      "icon": "Book",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762855099361",
-          "title": "Google Skillshop",
-          "href": "https://skillshop.exceedlms.com/",
-          "description": "Google Ads/GA4 官方课程。",
-          "icon": "/assets/favicon_1762855103037.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855129522",
-          "title": "Meta Blueprint ",
-          "href": "https://www.facebook.com/business/learn ",
-          "description": "Meta 广告官方课程与认证。",
-          "icon": "/assets/favicon_1762855136794.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762855156128",
-          "title": "Tiktok Academy",
-          "href": "https://www.tiktok.com/business/en/academy",
-          "description": "TikTok 广告课程。",
-          "icon": "/assets/favicon_1762855159326.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855175453",
-          "title": "Web.Dev",
-          "href": "https://web.dev/ ",
-          "description": "Google Web 技术与 PWA 学习。",
-          "icon": "/assets/favicon_1762855179437.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855270066",
-          "title": "Android Developer",
-          "href": "https://developer.android.com/ ",
-          "description": "Android 官方文档。",
-          "icon": "/assets/favicon_1762855278029.png",
-          "enabled": true
-        },
-        {
-          "id": "1762855292317",
-          "title": "Apple Developer",
-          "href": " https://developer.apple.com/",
-          "description": "iOS/macOS 官方文档与指南。",
-          "icon": "/assets/favicon_1762855293960.ico",
           "enabled": true
         }
       ],
