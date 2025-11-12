@@ -701,6 +701,64 @@
       "subCategories": []
     },
     {
+      "id": "1762851375807",
+      "title": "支付聚合 SDK",
+      "icon": "Code",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762857377867",
+          "title": "Stripe",
+          "href": "https://stripe.com/ ",
+          "description": "Stripe 是一套支持线上付款处理和商业解决方案的 API，适用于各种规模的互联网商家。通过 AI 接受付款并更快扩展。",
+          "icon": "/assets/favicon_1762857380612.svg",
+          "enabled": true
+        },
+        {
+          "id": "1762857410258",
+          "title": "Adyen",
+          "href": "https://www.adyen.com/",
+          "description": "全渠道收单/风控/结算。",
+          "icon": "/assets/favicon_1762857419866.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762857430994",
+          "title": "Braintree",
+          "href": "https://www.braintreepayments.com/",
+          "description": "PayPal 旗下，卡+PayPal 一体。",
+          "icon": "/assets/favicon_1762857440155.png",
+          "enabled": true
+        },
+        {
+          "id": "1762857452746",
+          "title": "PayPal Checkout Integration",
+          "href": "https://developer.paypal.com/docs/checkout/",
+          "description": "PayPal 官方收款组件。",
+          "icon": "/assets/favicon_1762857455075.png",
+          "enabled": true
+        },
+        {
+          "id": "1762857541392",
+          "title": "Xendit",
+          "href": "https://www.xendit.co/",
+          "description": "东南亚区域性支付聚合。",
+          "icon": "/assets/favicon_1762857547308.png",
+          "enabled": true
+        },
+        {
+          "id": "1762857565685",
+          "title": "Paddle",
+          "href": " https://www.paddle.com/",
+          "description": "税务与订阅合规托管。",
+          "icon": "/assets/favicon_1762857569894.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1762850962200",
       "title": "数据分析",
       "icon": "Zap",
@@ -1101,64 +1159,6 @@
           "href": "https://www.maskfog.com/",
           "description": "Maskfog指纹浏览器是一款为跨境业务提供多账号营销管理专用防关联指纹浏览器,自带纯净设备,环境免费,一站式解决店铺及海外营销多账号管理难题",
           "icon": "/assets/favicon_1762857338807.ico",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1762851375807",
-      "title": "支付聚合 SDK",
-      "icon": "Code",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762857377867",
-          "title": "Stripe",
-          "href": "https://stripe.com/ ",
-          "description": "Stripe 是一套支持线上付款处理和商业解决方案的 API，适用于各种规模的互联网商家。通过 AI 接受付款并更快扩展。",
-          "icon": "/assets/favicon_1762857380612.svg",
-          "enabled": true
-        },
-        {
-          "id": "1762857410258",
-          "title": "Adyen",
-          "href": "https://www.adyen.com/",
-          "description": "全渠道收单/风控/结算。",
-          "icon": "/assets/favicon_1762857419866.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762857430994",
-          "title": "Braintree",
-          "href": "https://www.braintreepayments.com/",
-          "description": "PayPal 旗下，卡+PayPal 一体。",
-          "icon": "/assets/favicon_1762857440155.png",
-          "enabled": true
-        },
-        {
-          "id": "1762857452746",
-          "title": "PayPal Checkout Integration",
-          "href": "https://developer.paypal.com/docs/checkout/",
-          "description": "PayPal 官方收款组件。",
-          "icon": "/assets/favicon_1762857455075.png",
-          "enabled": true
-        },
-        {
-          "id": "1762857541392",
-          "title": "Xendit",
-          "href": "https://www.xendit.co/",
-          "description": "东南亚区域性支付聚合。",
-          "icon": "/assets/favicon_1762857547308.png",
-          "enabled": true
-        },
-        {
-          "id": "1762857565685",
-          "title": "Paddle",
-          "href": " https://www.paddle.com/",
-          "description": "税务与订阅合规托管。",
-          "icon": "/assets/favicon_1762857569894.png",
           "enabled": true
         }
       ],
