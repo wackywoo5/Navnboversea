@@ -28,6 +28,14 @@
           "description": "HTTP, HTTPS, Socks5协议共享、专属和住宅代理。支持IPv4、IPv6。",
           "icon": "/assets/favicon_1762929870770.png",
           "enabled": true
+        },
+        {
+          "id": "1762929973280",
+          "title": "AdsPower",
+          "href": "https://www.adspower.net/share/ZRoWr3",
+          "description": "AdsPower是一款专门为广告代理和网络营销人员开发的指纹浏览器，它可模拟计算机硬件、软件、环境等指纹信息，通过多个隧道加密的方式来完成虚拟化，让用户的操作更加真实、自然。",
+          "icon": "/assets/favicon_1762930001118.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
