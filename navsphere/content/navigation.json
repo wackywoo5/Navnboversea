@@ -727,6 +727,56 @@
       "subCategories": []
     },
     {
+      "id": "1762851352866",
+      "title": "指纹浏览器",
+      "icon": "Target",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762856867454",
+          "title": "AdsPower",
+          "href": "https://www.adspower.net/share/ZRoWr3",
+          "description": "AdsPower是一款专门为广告代理和网络营销人员开发的指纹浏览器，它可模拟计算机硬件、软件、环境等指纹信息，通过多个隧道加密的方式来完成虚拟化，让用户的操作更加真实、自然。",
+          "icon": "/assets/favicon_1762856869659.svg",
+          "enabled": true
+        },
+        {
+          "id": "1762857217107",
+          "title": "比特指纹浏览器",
+          "href": "https://www.bitbrowser.cn/",
+          "description": "比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器！",
+          "icon": "/assets/favicon_1762857223396.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762857241040",
+          "title": "Dolphin-anty",
+          "href": "https://dolphin-anty.com/",
+          "description": "Dolphin Anty是一款专门为保护用户隐私而设计的防指纹识别浏览器。它可以模拟真实的人类操作，包括鼠标点击、键盘输入等等，从而有效地欺骗网站进行指纹识别，保证用户的个人信息和数据不会被泄露。",
+          "icon": "/assets/favicon_1762857243963.png",
+          "enabled": true
+        },
+        {
+          "id": "1762857275044",
+          "title": "紫鸟浏览器",
+          "href": "https://www.ziniao.com/",
+          "description": "紫鸟超级浏览器专注解决TikTok Shop、亚马逊、沃尔玛、eBay、Shopee等跨境电商账号安全管理问题,为Amazon、Wish、eBay、独立站等跨境电商卖家提供专业安全的店铺管理方案,专业技术让店铺安全更简单。",
+          "icon": "/assets/favicon_1762857276731.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762857333260",
+          "title": "Maskfog",
+          "href": "https://www.maskfog.com/",
+          "description": "Maskfog指纹浏览器是一款为跨境业务提供多账号营销管理专用防关联指纹浏览器,自带纯净设备,环境免费,一站式解决店铺及海外营销多账号管理难题",
+          "icon": "/assets/favicon_1762857338807.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1762851248741",
       "title": "程序化投放工具",
       "icon": "Brain",
@@ -1167,56 +1217,6 @@
           "href": "https://track.flexlinkspro.com/g.ashx?foid=24.215214.6226519&trid=1354474.215214&foc=16&fot=9999&fos=6",
           "description": "FlexOffers is a recognized leader in performance-based marketing. We employ a “one-roof” approach that enables us to work with over 12K advertisers across 65 networks and over 75K publisher programsSERP Snippet Preview",
           "icon": "/assets/favicon_1762489632404.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1762851352866",
-      "title": "指纹浏览器",
-      "icon": "Target",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762856867454",
-          "title": "AdsPower",
-          "href": "https://www.adspower.net/share/ZRoWr3",
-          "description": "AdsPower是一款专门为广告代理和网络营销人员开发的指纹浏览器，它可模拟计算机硬件、软件、环境等指纹信息，通过多个隧道加密的方式来完成虚拟化，让用户的操作更加真实、自然。",
-          "icon": "/assets/favicon_1762856869659.svg",
-          "enabled": true
-        },
-        {
-          "id": "1762857217107",
-          "title": "比特指纹浏览器",
-          "href": "https://www.bitbrowser.cn/",
-          "description": "比特指纹浏览器，也是防关联指纹浏览器、跨境电商浏览器，能多开浏览器窗口、多登账号，防关联和防封号，跨境账号的安全管理专家，轻松管理您的跨境大生意，真正做到防关联封号的超级浏览器、跨境电商指纹浏览器！",
-          "icon": "/assets/favicon_1762857223396.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762857241040",
-          "title": "Dolphin-anty",
-          "href": "https://dolphin-anty.com/",
-          "description": "Dolphin Anty是一款专门为保护用户隐私而设计的防指纹识别浏览器。它可以模拟真实的人类操作，包括鼠标点击、键盘输入等等，从而有效地欺骗网站进行指纹识别，保证用户的个人信息和数据不会被泄露。",
-          "icon": "/assets/favicon_1762857243963.png",
-          "enabled": true
-        },
-        {
-          "id": "1762857275044",
-          "title": "紫鸟浏览器",
-          "href": "https://www.ziniao.com/",
-          "description": "紫鸟超级浏览器专注解决TikTok Shop、亚马逊、沃尔玛、eBay、Shopee等跨境电商账号安全管理问题,为Amazon、Wish、eBay、独立站等跨境电商卖家提供专业安全的店铺管理方案,专业技术让店铺安全更简单。",
-          "icon": "/assets/favicon_1762857276731.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762857333260",
-          "title": "Maskfog",
-          "href": "https://www.maskfog.com/",
-          "description": "Maskfog指纹浏览器是一款为跨境业务提供多账号营销管理专用防关联指纹浏览器,自带纯净设备,环境免费,一站式解决店铺及海外营销多账号管理难题",
-          "icon": "/assets/favicon_1762857338807.ico",
           "enabled": true
         }
       ],
