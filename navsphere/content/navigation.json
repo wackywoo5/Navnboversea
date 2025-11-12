@@ -20,6 +20,14 @@
           "description": "最专业的全渠道广告代投放",
           "icon": "https://navnboversea.pages.dev/_next/image?url=%2Fassets%2Fimages%2Falogo.png&w=48&q=75",
           "enabled": true
+        },
+        {
+          "id": "1762929861824",
+          "title": "PROXY6",
+          "href": "https://proxy6.net/?r=637256",
+          "description": "HTTP, HTTPS, Socks5协议共享、专属和住宅代理。支持IPv4、IPv6。",
+          "icon": "/assets/favicon_1762929870770.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
