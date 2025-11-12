@@ -867,64 +867,6 @@
       "subCategories": []
     },
     {
-      "id": "5",
-      "title": "Affiliate联盟",
-      "icon": "Target",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1762489463495",
-          "title": "CJ",
-          "href": "https://www.cj.com",
-          "description": "世界领先的大型综合广告联盟，品牌广告主资源丰富。",
-          "icon": "/assets/favicon_1762489467300.png",
-          "enabled": true
-        },
-        {
-          "id": "1762489514704",
-          "title": "Amazon",
-          "href": "https://affiliate-program.amazon.com",
-          "description": "亚马逊官方联盟平台，依托全球最大的电商平台，信誉度高。",
-          "icon": "/assets/favicon_1762489518431.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762489552336",
-          "title": "Awin",
-          "href": "https://www.awin.com/",
-          "description": "Affiliate marketing is a simple way to earn money online, using our affiliate platform. Join a global community of publishers and advertisers.",
-          "icon": "/assets/favicon_1762489556083.png",
-          "enabled": true
-        },
-        {
-          "id": "1762489569459",
-          "title": "Convert2Media",
-          "href": "https://convert2media.com",
-          "description": "Convert2Media is an award-winning CPA network focused on bringing top quality traffic to advertisers and providing publishers with the best quality offers.",
-          "icon": "/assets/favicon_1762489572427.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762489603868",
-          "title": "ClickBank",
-          "href": "https://www.clickbank.com",
-          "description": "ClickBank is a leading global retailer and affiliate marketplace, connecting digital content creators with affiliate marketers worldwide.",
-          "icon": "/assets/favicon_1762489606173.ico",
-          "enabled": true
-        },
-        {
-          "id": "1762489629567",
-          "title": "FlexOffers",
-          "href": "https://track.flexlinkspro.com/g.ashx?foid=24.215214.6226519&trid=1354474.215214&foc=16&fot=9999&fos=6",
-          "description": "FlexOffers is a recognized leader in performance-based marketing. We employ a “one-roof” approach that enables us to work with over 12K advertisers across 65 networks and over 75K publisher programsSERP Snippet Preview",
-          "icon": "/assets/favicon_1762489632404.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1762851074577",
       "title": "翻译及本地化工具",
       "icon": "MessageSquare",
@@ -977,6 +919,64 @@
           "href": "https://phrase.com/",
           "description": "开发者友好的 i18n 平台。",
           "icon": "/assets/favicon_1762854786320.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "5",
+      "title": "Affiliate联盟",
+      "icon": "Target",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1762489463495",
+          "title": "CJ",
+          "href": "https://www.cj.com",
+          "description": "世界领先的大型综合广告联盟，品牌广告主资源丰富。",
+          "icon": "/assets/favicon_1762489467300.png",
+          "enabled": true
+        },
+        {
+          "id": "1762489514704",
+          "title": "Amazon",
+          "href": "https://affiliate-program.amazon.com",
+          "description": "亚马逊官方联盟平台，依托全球最大的电商平台，信誉度高。",
+          "icon": "/assets/favicon_1762489518431.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762489552336",
+          "title": "Awin",
+          "href": "https://www.awin.com/",
+          "description": "Affiliate marketing is a simple way to earn money online, using our affiliate platform. Join a global community of publishers and advertisers.",
+          "icon": "/assets/favicon_1762489556083.png",
+          "enabled": true
+        },
+        {
+          "id": "1762489569459",
+          "title": "Convert2Media",
+          "href": "https://convert2media.com",
+          "description": "Convert2Media is an award-winning CPA network focused on bringing top quality traffic to advertisers and providing publishers with the best quality offers.",
+          "icon": "/assets/favicon_1762489572427.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762489603868",
+          "title": "ClickBank",
+          "href": "https://www.clickbank.com",
+          "description": "ClickBank is a leading global retailer and affiliate marketplace, connecting digital content creators with affiliate marketers worldwide.",
+          "icon": "/assets/favicon_1762489606173.ico",
+          "enabled": true
+        },
+        {
+          "id": "1762489629567",
+          "title": "FlexOffers",
+          "href": "https://track.flexlinkspro.com/g.ashx?foid=24.215214.6226519&trid=1354474.215214&foc=16&fot=9999&fos=6",
+          "description": "FlexOffers is a recognized leader in performance-based marketing. We employ a “one-roof” approach that enables us to work with over 12K advertisers across 65 networks and over 75K publisher programsSERP Snippet Preview",
+          "icon": "/assets/favicon_1762489632404.png",
           "enabled": true
         }
       ],
